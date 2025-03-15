@@ -26,3 +26,10 @@ poetry run python ./src/manage.py migrate
 ## Lancer le serveur de développement
 poetry run python ./src/manage.py runserver
 ```
+
+Pour créer une nouvelle app django, utiliser la commande suivante
+
+```sh
+mkdir ./src/birdtrack/new_app
+poetry run python ./src/manage.py startapp new_app ./src/birdtrack/new_app
+```
