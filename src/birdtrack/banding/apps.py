@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class MarkConfig(AppConfig):
+class BandingConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'mark'
+    name = 'birdtrack.banding'

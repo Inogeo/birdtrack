@@ -20,6 +20,9 @@ cd birdtrack
 ## Installer les dépendances
 poetry install
 
+## Installer les fixtures
+
+
 ## Initialiser la base de données
 poetry run python ./src/manage.py migrate
 

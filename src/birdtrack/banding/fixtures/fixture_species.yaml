@@ -1,0 +1,6314 @@
+- fields:
+    alternative: null
+    categorie: null
+    code: PRUCOL
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PRUCOL_
+    id_taxon: '17183'
+    nom_scientifique: Prunella collaris
+    nom_vernaculaire: Accenteur alpin
+    position: Ta
+    recommandation: 03.0/05.5 Alu-1N:S
+  model: banding.Species
+  pk: 17183
+- fields:
+    alternative: null
+    categorie: null
+    code: PRUMOD
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PRUMOD_
+    id_taxon: '17193'
+    nom_scientifique: Prunella modularis
+    nom_vernaculaire: Accenteur mouchet
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 17193
+- fields:
+    alternative: null
+    categorie: null
+    code: CERGAL
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: CERGAL_
+    id_taxon: '15000'
+    nom_scientifique: Cercotrichas galactotes
+    nom_vernaculaire: Agrobate roux
+    position: Ta
+    recommandation: 03.0/05.5 Alu-1N:S
+  model: banding.Species
+  pk: 15000
+- fields:
+    alternative: 13.0/10.0 Alu-1N:D Ta
+    categorie: null
+    code: HIEPEN
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: HIEPEN_
+    id_taxon: '7615'
+    nom_scientifique: Hieraaetus pennatus
+    nom_vernaculaire: Aigle botté
+    position: Ta
+    recommandation: 15.0/10.0 Alu-1N:C
+  model: banding.Species
+  pk: 7615
+- fields:
+    alternative: null
+    categorie: null
+    code: AQUCLA
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: AQUCLA_
+    id_taxon: '7601'
+    nom_scientifique: Aquila clanga
+    nom_vernaculaire: Aigle criard
+    position: Ta
+    recommandation: 16.0/12.0 Aci-1N:C
+  model: banding.Species
+  pk: 7601
+- fields:
+    alternative: null
+    categorie: null
+    code: HIEFAS
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: HIEFAS_
+    id_taxon: '7613'
+    nom_scientifique: Hieraaetus fasciatus
+    nom_vernaculaire: Aigle de Bonelli
+    position: Ta
+    recommandation: 19.0/10.0 Alu-1N:B-v
+  model: banding.Species
+  pk: 7613
+- fields:
+    alternative: null
+    categorie: null
+    code: AQUADA
+    commentaire: A riveter
+    date_mise_a_jour: '2024-10-15'
+    id_ref: AQUADA_
+    id_taxon: '7605'
+    nom_scientifique: Aquila adalberti
+    nom_vernaculaire: Aigle ibérique
+    position: Ta
+    recommandation: 26.0/20.0 Aci-1N:T
+  model: banding.Species
+  pk: 7605
+- fields:
+    alternative: null
+    categorie: null
+    code: AQUHEL
+    commentaire: A riveter
+    date_mise_a_jour: '2024-10-15'
+    id_ref: AQUHEL_
+    id_taxon: '7606'
+    nom_scientifique: Aquila heliaca
+    nom_vernaculaire: Aigle impérial
+    position: Ta
+    recommandation: 26.0/20.0 Aci-1N:T
+  model: banding.Species
+  pk: 7606
+- fields:
+    alternative: null
+    categorie: null
+    code: AQUPOM
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: AQUPOM_
+    id_taxon: '7600'
+    nom_scientifique: Aquila pomarina
+    nom_vernaculaire: Aigle pomarin
+    position: Ta
+    recommandation: 16.0/12.0 Aci-1N:C
+  model: banding.Species
+  pk: 7600
+- fields:
+    alternative: 26.0/46.0 Alu-1N:BZ-v Ta
+    categorie: null
+    code: AQUCHR
+    commentaire: A riveter OU bagues PP avec rivets
+    date_mise_a_jour: '2024-10-15'
+    id_ref: AQUCHR_
+    id_taxon: '7609'
+    nom_scientifique: Aquila chrysaetos
+    nom_vernaculaire: Aigle royal
+    position: Ta
+    recommandation: 26.0/20.0 Aci-1N:T
+  model: banding.Species
+  pk: 7609
+- fields:
+    alternative: 11.0/10.0 Alu-1N:H Ti
+    categorie: null
+    code: EGRGAR
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: EGRGAR_
+    id_taxon: '6932'
+    nom_scientifique: Egretta garzetta
+    nom_vernaculaire: Aigrette garzette
+    position: Ti
+    recommandation: 11.0/10.0 Aci-1N:K
+  model: banding.Species
+  pk: 6932
+- fields:
+    alternative: null
+    categorie: VOL
+    code: MELCAL
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: MELCAL_VOL
+    id_taxon: '16816'
+    nom_scientifique: Melanocorypha calandra
+    nom_vernaculaire: Alouette calandre
+    position: Ta
+    recommandation: 03.0/05.5 Alu-1N:S
+  model: banding.Species
+  pk: 16816
+- fields:
+    alternative: null
+    categorie: PUL
+    code: MELCAL
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: MELCAL_PUL
+    id_taxon: '16816'
+    nom_scientifique: Melanocorypha calandra
+    nom_vernaculaire: Alouette calandre
+    position: Ta
+    recommandation: 03.5/05.5 Alu-1N:L
+  model: banding.Species
+  pk: 16816
+- fields:
+    alternative: null
+    categorie: null
+    code: CALBRA
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: CALBRA_
+    id_taxon: '16823'
+    nom_scientifique: Calandrella brachydactyla
+    nom_vernaculaire: Alouette calandrelle
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 16823
+- fields:
+    alternative: null
+    categorie: null
+    code: ALAARV
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: ALAARV_
+    id_taxon: '16856'
+    nom_scientifique: Alauda arvensis
+    nom_vernaculaire: Alouette des champs
+    position: Ta
+    recommandation: 03.0/05.5 Alu-1N:S
+  model: banding.Species
+  pk: 16856
+- fields:
+    alternative: null
+    categorie: null
+    code: EREALP
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: EREALP_
+    id_taxon: '16861'
+    nom_scientifique: Eremophila alpestris
+    nom_vernaculaire: Alouette hausse-col
+    position: Ta
+    recommandation: 02.5/05.0 Alu-1N:V
+  model: banding.Species
+  pk: 16861
+- fields:
+    alternative: null
+    categorie: null
+    code: LULARB
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: LULARB_
+    id_taxon: '16854'
+    nom_scientifique: Lullula arborea
+    nom_vernaculaire: Alouette lulu
+    position: Ta
+    recommandation: 02.5/05.0 Alu-1N:V
+  model: banding.Species
+  pk: 16854
+- fields:
+    alternative: null
+    categorie: null
+    code: CALENS
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: CALENS_
+    id_taxon: '16828'
+    nom_scientifique: Calandrella rufescens
+    nom_vernaculaire: Alouette pispolette
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 16828
+- fields:
+    alternative: null
+    categorie: F
+    code: ACCGEN
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: ACCGEN_F
+    id_taxon: '7516'
+    nom_scientifique: Accipiter gentilis
+    nom_vernaculaire: Autour des palombes
+    position: Ta
+    recommandation: 13.0/10.0 Alu-1N:D
+  model: banding.Species
+  pk: 7516
+- fields:
+    alternative: null
+    categorie: M
+    code: ACCGEN
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: ACCGEN_M
+    id_taxon: '7516'
+    nom_scientifique: Accipiter gentilis
+    nom_vernaculaire: Autour des palombes
+    position: Ta
+    recommandation: 11.0/10.0 Alu-1N:H
+  model: banding.Species
+  pk: 7516
+- fields:
+    alternative: null
+    categorie: null
+    code: RECAVO
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: RECAVO_
+    id_taxon: '8668'
+    nom_scientifique: Recurvirostra avosetta
+    nom_vernaculaire: Avocette élégante
+    position: Ti
+    recommandation: 07.0/10.0 Aci-1N:F
+  model: banding.Species
+  pk: 8668
+- fields:
+    alternative: 22.0/12.0 Aci-1N:B Ta
+    categorie: null
+    code: PANHAL
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PANHAL_
+    id_taxon: '7332'
+    nom_scientifique: Pandion haliaetus
+    nom_vernaculaire: Balbuzard pêcheur
+    position: Ta
+    recommandation: 19.0/10.0 Alu-1N:B-v
+  model: banding.Species
+  pk: 7332
+- fields:
+    alternative: null
+    categorie: null
+    code: LIMLIM
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: LIMLIM_
+    id_taxon: '8454'
+    nom_scientifique: Limosa limosa
+    nom_vernaculaire: Barge à queue noire
+    position: Ti
+    recommandation: 07.0/10.0 Aci-1N:F
+  model: banding.Species
+  pk: 8454
+- fields:
+    alternative: null
+    categorie: null
+    code: LIMLAP
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: LIMLAP_
+    id_taxon: '8456'
+    nom_scientifique: Limosa lapponica
+    nom_vernaculaire: Barge rousse
+    position: Ti
+    recommandation: 06.0/07.0 Aci-1N:YG
+  model: banding.Species
+  pk: 8456
+- fields:
+    alternative: null
+    categorie: null
+    code: SCORUS
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: SCORUS_
+    id_taxon: '8425'
+    nom_scientifique: Scolopax rusticola
+    nom_vernaculaire: Bécasse des bois
+    position: Ta
+    recommandation: 06.0/07.0 Alu-1N:GY
+  model: banding.Species
+  pk: 8425
+- fields:
+    alternative: null
+    categorie: null
+    code: CALFER
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: CALFER_
+    id_taxon: '8517'
+    nom_scientifique: Calidris ferruginea
+    nom_vernaculaire: Bécasseau cocorli
+    position: Ti
+    recommandation: 03.0/05.0 Aci-1N:S
+  model: banding.Species
+  pk: 8517
+- fields:
+    alternative: null
+    categorie: null
+    code: CALTEM
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: CALTEM_
+    id_taxon: '8507'
+    nom_scientifique: Calidris temminckii
+    nom_vernaculaire: Bécasseau de Temminck
+    position: Ti
+    recommandation: 02.3/05.0 Aci-1N:0
+  model: banding.Species
+  pk: 8507
+- fields:
+    alternative: null
+    categorie: null
+    code: LIMFAL
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: LIMFAL_
+    id_taxon: '8525'
+    nom_scientifique: Limicola falcinellus
+    nom_vernaculaire: Bécasseau falcinelle
+    position: Ti
+    recommandation: 03.0/05.0 Aci-1N:S
+  model: banding.Species
+  pk: 8525
+- fields:
+    alternative: null
+    categorie: null
+    code: CALCAN
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: CALCAN_
+    id_taxon: '8501'
+    nom_scientifique: Calidris canutus
+    nom_vernaculaire: Bécasseau maubèche
+    position: Ti
+    recommandation: 04.2/07.0 Aci-1N:M
+  model: banding.Species
+  pk: 8501
+- fields:
+    alternative: null
+    categorie: null
+    code: CALUTA
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: CALUTA_
+    id_taxon: '8505'
+    nom_scientifique: Calidris minuta
+    nom_vernaculaire: Bécasseau minute
+    position: Ti
+    recommandation: 02.3/05.0 Aci-1N:0
+  model: banding.Species
+  pk: 8505
+- fields:
+    alternative: null
+    categorie: null
+    code: CALALB
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: CALALB_
+    id_taxon: '8502'
+    nom_scientifique: Calidris alba
+    nom_vernaculaire: Bécasseau sanderling
+    position: Ti
+    recommandation: 03.0/05.0 Aci-1N:S
+  model: banding.Species
+  pk: 8502
+- fields:
+    alternative: null
+    categorie: null
+    code: CALALP
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: CALALP_
+    id_taxon: '8516'
+    nom_scientifique: Calidris alpina
+    nom_vernaculaire: Bécasseau variable
+    position: Ti
+    recommandation: 03.0/05.0 Aci-1N:S
+  model: banding.Species
+  pk: 8516
+- fields:
+    alternative: null
+    categorie: null
+    code: CALMAR
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: CALMAR_
+    id_taxon: '8514'
+    nom_scientifique: Calidris maritima
+    nom_vernaculaire: Bécasseau violet
+    position: Ti
+    recommandation: 03.0/05.0 Aci-1N:S
+  model: banding.Species
+  pk: 8514
+- fields:
+    alternative: null
+    categorie: null
+    code: GALAGO
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: GALAGO_
+    id_taxon: '8438'
+    nom_scientifique: Gallinago gallinago
+    nom_vernaculaire: Bécassine des marais
+    position: Ti
+    recommandation: 04.2/07.0 Aci-1N:M
+  model: banding.Species
+  pk: 8438
+- fields:
+    alternative: 04.2/07.0 Aci-1N:M Ti
+    categorie: null
+    code: GALMED
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: GALMED_
+    id_taxon: '8437'
+    nom_scientifique: Gallinago media
+    nom_vernaculaire: Bécassine double
+    position: Ti
+    recommandation: 05.0/06.5 Aci-1N:G
+  model: banding.Species
+  pk: 8437
+- fields:
+    alternative: null
+    categorie: null
+    code: LYMMIN
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: LYMMIN_
+    id_taxon: '8449'
+    nom_scientifique: Lymnocryptes minimus
+    nom_vernaculaire: Bécassine sourde
+    position: Ti
+    recommandation: 03.0/05.0 Aci-1N:S
+  model: banding.Species
+  pk: 8449
+- fields:
+    alternative: null
+    categorie: null
+    code: LOXLEU
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: LOXLEU_
+    id_taxon: '17670'
+    nom_scientifique: Loxia leucoptera
+    nom_vernaculaire: Bec-croisé bifascié
+    position: Ta
+    recommandation: 03.0/05.5 Alu-1N:S
+  model: banding.Species
+  pk: 17670
+- fields:
+    alternative: null
+    categorie: null
+    code: LOXCUR
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: LOXCUR_
+    id_taxon: '17669'
+    nom_scientifique: Loxia curvirostra
+    nom_vernaculaire: Bec-croisé des sapins
+    position: Ta
+    recommandation: 03.5/05.5 Alu-1N:L
+  model: banding.Species
+  pk: 17669
+- fields:
+    alternative: null
+    categorie: null
+    code: LOXPYT
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: LOXPYT_
+    id_taxon: '17667'
+    nom_scientifique: Loxia pytyopsittacus
+    nom_vernaculaire: Bec-croisé perroquet
+    position: Ta
+    recommandation: 03.0/05.5 Alu-1N:S
+  model: banding.Species
+  pk: 17667
+- fields:
+    alternative: null
+    categorie: null
+    code: MOTCIT
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: MOTCIT_
+    id_taxon: '17120'
+    nom_scientifique: Motacilla citreola
+    nom_vernaculaire: Bergeronnette citrine
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 17120
+- fields:
+    alternative: null
+    categorie: null
+    code: MOTCIN
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: MOTCIN_
+    id_taxon: '17123'
+    nom_scientifique: Motacilla cinerea
+    nom_vernaculaire: Bergeronnette des ruisseaux
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 17123
+- fields:
+    alternative: null
+    categorie: null
+    code: MOTALB
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: MOTALB_
+    id_taxon: '17113'
+    nom_scientifique: Motacilla alba
+    nom_vernaculaire: Bergeronnette grise
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 17113
+- fields:
+    alternative: null
+    categorie: null
+    code: MOTFLA
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: MOTFLA_
+    id_taxon: '17121'
+    nom_scientifique: Motacilla flava
+    nom_vernaculaire: Bergeronnette printanière
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 17121
+- fields:
+    alternative: null
+    categorie: null
+    code: BRARUF
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: BRARUF_
+    id_taxon: '7167'
+    nom_scientifique: Branta ruficollis
+    nom_vernaculaire: Bernache à cou roux
+    position: Ta
+    recommandation: 13.0/10.0 Aci-1N:D
+  model: banding.Species
+  pk: 7167
+- fields:
+    alternative: 13.0/10.0 Aci-1N:D Ta
+    categorie: null
+    code: BRABER
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: BRABER_
+    id_taxon: '7166'
+    nom_scientifique: Branta bernicla
+    nom_vernaculaire: Bernache cravant
+    position: Ta
+    recommandation: 11.0/10.0 Aci-1N:K
+  model: banding.Species
+  pk: 7166
+- fields:
+    alternative: 22.0/12.0 Aci-1N:B Ta
+    categorie: null
+    code: BRACAN
+    commentaire: C trop juste pour certains individus
+    date_mise_a_jour: '2024-10-15'
+    id_ref: BRACAN_
+    id_taxon: '7164'
+    nom_scientifique: Branta canadensis
+    nom_vernaculaire: Bernache du Canada
+    position: Ta
+    recommandation: 16.0/12.0 Aci-1N:C
+  model: banding.Species
+  pk: 7164
+- fields:
+    alternative: null
+    categorie: null
+    code: BRASIS
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: BRASIS_
+    id_taxon: '7165'
+    nom_scientifique: Branta leucopsis
+    nom_vernaculaire: Bernache nonnette
+    position: Ta
+    recommandation: 13.0/10.0 Aci-1N:D
+  model: banding.Species
+  pk: 7165
+- fields:
+    alternative: null
+    categorie: null
+    code: NYCNYC
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: NYCNYC_
+    id_taxon: '6976'
+    nom_scientifique: Nycticorax nycticorax
+    nom_vernaculaire: Bihoreau gris
+    position: Ti
+    recommandation: 11.0/10.0 Alu-1N:H
+  model: banding.Species
+  pk: 6976
+- fields:
+    alternative: 08.5/09.0 Alu-1N:E Ti
+    categorie: null
+    code: IXOMIN
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: IXOMIN_
+    id_taxon: '6997'
+    nom_scientifique: Ixobrychus minutus
+    nom_vernaculaire: Blongios nain
+    position: Ti
+    recommandation: 07.0/09.0 Alu-1N:F
+  model: banding.Species
+  pk: 6997
+- fields:
+    alternative: 13.0/10.0 Alu-1N:D Ta
+    categorie: null
+    code: PERAPI
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PERAPI_
+    id_taxon: '7350'
+    nom_scientifique: Pernis apivorus
+    nom_vernaculaire: Bondrée apivore
+    position: Ta
+    recommandation: 11.0/10.0 Alu-1N:H
+  model: banding.Species
+  pk: 7350
+- fields:
+    alternative: null
+    categorie: null
+    code: CETCET
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: CETCET_
+    id_taxon: '15973'
+    nom_scientifique: Cettia cetti
+    nom_vernaculaire: Bouscarle de Cetti
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 15973
+- fields:
+    alternative: null
+    categorie: null
+    code: PYRULA
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PYRULA_
+    id_taxon: '17677'
+    nom_scientifique: Pyrrhula pyrrhula
+    nom_vernaculaire: Bouvreuil pivoine
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 17677
+- fields:
+    alternative: null
+    categorie: null
+    code: PYRULAPYR
+    commentaire: individus de grande taille originaire des populations nordiques
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PYRULAPYR_
+    id_taxon: '18854'
+    nom_scientifique: Pyrrhula pyrrhula pyrrhula
+    nom_vernaculaire: Bouvreuil pivoine ssp type
+    position: Ta
+    recommandation: 02.5/05.0 Alu-1N:V
+  model: banding.Species
+  pk: 18854
+- fields:
+    alternative: null
+    categorie: null
+    code: EMBLEU
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: EMBLEU_
+    id_taxon: '17754'
+    nom_scientifique: Emberiza leucocephalos
+    nom_vernaculaire: Bruant à calotte blanche
+    position: Ta
+    recommandation: 02.5/05.0 Alu-1N:V
+  model: banding.Species
+  pk: 17754
+- fields:
+    alternative: null
+    categorie: null
+    code: PLENIV
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PLENIV_
+    id_taxon: '17799'
+    nom_scientifique: Plectrophenax nivalis
+    nom_vernaculaire: Bruant des neiges
+    position: Ta
+    recommandation: 03.0/05.5 Alu-1N:S
+  model: banding.Species
+  pk: 17799
+- fields:
+    alternative: null
+    categorie: null
+    code: EMBSCH
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: EMBSCH_
+    id_taxon: '17790'
+    nom_scientifique: Emberiza schoeniclus
+    nom_vernaculaire: Bruant des roseaux
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 17790
+- fields:
+    alternative: null
+    categorie: null
+    code: EMBSCHWHI
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: EMBSCHWHI_
+    id_taxon: '18926'
+    nom_scientifique: Emberiza schoeniclus witherbyi
+    nom_vernaculaire: Bruant des roseaux ""à gros bec""
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 18926
+- fields:
+    alternative: null
+    categorie: null
+    code: EMBSCHSCH
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: EMBSCHSCH_
+    id_taxon: '18943'
+    nom_scientifique: Emberiza schoeniclus schoeniclus
+    nom_vernaculaire: Bruant des roseaux type
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 18943
+- fields:
+    alternative: null
+    categorie: null
+    code: EMBCIA
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: EMBCIA_
+    id_taxon: '17757'
+    nom_scientifique: Emberiza cia
+    nom_vernaculaire: Bruant fou
+    position: Ta
+    recommandation: 02.5/05.0 Alu-1N:V
+  model: banding.Species
+  pk: 17757
+- fields:
+    alternative: null
+    categorie: null
+    code: EMBCIT
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: EMBCIT_
+    id_taxon: '17753'
+    nom_scientifique: Emberiza citrinella
+    nom_vernaculaire: Bruant jaune
+    position: Ta
+    recommandation: 02.5/05.0 Alu-1N:V
+  model: banding.Species
+  pk: 17753
+- fields:
+    alternative: null
+    categorie: null
+    code: CALLAP
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: CALLAP_
+    id_taxon: '17795'
+    nom_scientifique: Calcarius lapponicus
+    nom_vernaculaire: Bruant lapon
+    position: Ta
+    recommandation: 02.5/05.0 Alu-1N:V
+  model: banding.Species
+  pk: 17795
+- fields:
+    alternative: null
+    categorie: null
+    code: EMBMEL
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: EMBMEL_
+    id_taxon: '17784'
+    nom_scientifique: Emberiza melanocephala
+    nom_vernaculaire: Bruant mélanocéphale
+    position: Ta
+    recommandation: 03.0/05.5 Alu-1N:S
+  model: banding.Species
+  pk: 17784
+- fields:
+    alternative: null
+    categorie: null
+    code: EMBPUS
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: EMBPUS_
+    id_taxon: '17774'
+    nom_scientifique: Emberiza pusilla
+    nom_vernaculaire: Bruant nain
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 17774
+- fields:
+    alternative: null
+    categorie: null
+    code: EMBHOR
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: EMBHOR_
+    id_taxon: '17763'
+    nom_scientifique: Emberiza hortulana
+    nom_vernaculaire: Bruant ortolan
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 17763
+- fields:
+    alternative: 03.5/05.5 Alu-1N:L Ta
+    categorie: null
+    code: MILCAL
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: MILCAL_
+    id_taxon: '17792'
+    nom_scientifique: Miliaria calandra
+    nom_vernaculaire: Bruant proyer
+    position: Ta
+    recommandation: 03.0/05.5 Alu-1N:S
+  model: banding.Species
+  pk: 17792
+- fields:
+    alternative: null
+    categorie: null
+    code: EMBRUS
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: EMBRUS_
+    id_taxon: '17776'
+    nom_scientifique: Emberiza rustica
+    nom_vernaculaire: Bruant rustique
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 17776
+- fields:
+    alternative: null
+    categorie: null
+    code: EMBCIR
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: EMBCIR_
+    id_taxon: '17755'
+    nom_scientifique: Emberiza cirlus
+    nom_vernaculaire: Bruant zizi
+    position: Ta
+    recommandation: 02.5/05.0 Alu-1N:V
+  model: banding.Species
+  pk: 17755
+- fields:
+    alternative: null
+    categorie: null
+    code: CIRPYG
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: CIRPYG_
+    id_taxon: '7457'
+    nom_scientifique: Circus pygargus
+    nom_vernaculaire: Busard cendré
+    position: Ta
+    recommandation: 08.5/09.0 Alu-1N:E
+  model: banding.Species
+  pk: 7457
+- fields:
+    alternative: null
+    categorie: null
+    code: CIRAER
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: CIRAER_
+    id_taxon: '7445'
+    nom_scientifique: Circus aeruginosus
+    nom_vernaculaire: Busard des roseaux
+    position: Ta
+    recommandation: 11.0/10.0 Alu-1N:H
+  model: banding.Species
+  pk: 7445
+- fields:
+    alternative: null
+    categorie: null
+    code: CIRMAC
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: CIRMAC_
+    id_taxon: '7455'
+    nom_scientifique: Circus macrourus
+    nom_vernaculaire: Busard pâle
+    position: Ta
+    recommandation: 08.5/09.0 Alu-1N:E
+  model: banding.Species
+  pk: 7455
+- fields:
+    alternative: null
+    categorie: null
+    code: CIRCYA
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: CIRCYA_
+    id_taxon: '7453'
+    nom_scientifique: Circus cyaneus
+    nom_vernaculaire: Busard Saint-Martin
+    position: Ta
+    recommandation: 08.5/09.0 Alu-1N:E
+  model: banding.Species
+  pk: 7453
+- fields:
+    alternative: null
+    categorie: null
+    code: BUTNUS
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: BUTNUS_
+    id_taxon: '7581'
+    nom_scientifique: Buteo rufinus
+    nom_vernaculaire: Buse féroce
+    position: Ta
+    recommandation: 13.0/10.0 Alu-1N:D
+  model: banding.Species
+  pk: 7581
+- fields:
+    alternative: null
+    categorie: null
+    code: BUTLAG
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: BUTLAG_
+    id_taxon: '7584'
+    nom_scientifique: Buteo lagopus
+    nom_vernaculaire: Buse pattue
+    position: Ta
+    recommandation: 13.0/10.0 Alu-1N:D
+  model: banding.Species
+  pk: 7584
+- fields:
+    alternative: 13.0/10.0 Alu-1N:D Ta
+    categorie: null
+    code: BUTBUT
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: BUTBUT_
+    id_taxon: '7578'
+    nom_scientifique: Buteo buteo
+    nom_vernaculaire: Buse variable
+    position: Ta
+    recommandation: 11.0/10.0 Alu-1N:H
+  model: banding.Species
+  pk: 7578
+- fields:
+    alternative: null
+    categorie: null
+    code: BOTSTE
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: BOTSTE_
+    id_taxon: '7008'
+    nom_scientifique: Botaurus stellaris
+    nom_vernaculaire: Butor étoilé
+    position: Ti
+    recommandation: 13.0/10.0 Alu-1N:D
+  model: banding.Species
+  pk: 7008
+- fields:
+    alternative: 04.2/07.0 Alu-1N:J Ta
+    categorie: null
+    code: COTNIX
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: COTNIX_
+    id_taxon: '7986'
+    nom_scientifique: Coturnix coturnix
+    nom_vernaculaire: Caille des blés
+    position: Ta
+    recommandation: 05.0/07.0 Alu-1N:G
+  model: banding.Species
+  pk: 7986
+- fields:
+    alternative: null
+    categorie: null
+    code: AIXSPO
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: AIXSPO_
+    id_taxon: '7211'
+    nom_scientifique: Aix sponsa
+    nom_vernaculaire: Canard carolin
+    position: Ta
+    recommandation: 08.5/09.0 Aci-1N:E
+  model: banding.Species
+  pk: 7211
+- fields:
+    alternative: null
+    categorie: null
+    code: ANAERA
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: ANAERA_
+    id_taxon: '7228'
+    nom_scientifique: Anas strepera
+    nom_vernaculaire: Canard chipeau
+    position: Ta
+    recommandation: 08.5/09.0 Aci-1N:E
+  model: banding.Species
+  pk: 7228
+- fields:
+    alternative: null
+    categorie: null
+    code: ANAHOS
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: ANAHOS_
+    id_taxon: '7241'
+    nom_scientifique: Anas platyrhynchos
+    nom_vernaculaire: Canard colvert
+    position: Ta
+    recommandation: 11.0/10.0 Aci-1N:K
+  model: banding.Species
+  pk: 7241
+- fields:
+    alternative: null
+    categorie: null
+    code: AIXGAL
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: AIXGAL_
+    id_taxon: '7212'
+    nom_scientifique: Aix galericulata
+    nom_vernaculaire: Canard mandarin
+    position: Ta
+    recommandation: 08.5/09.0 Aci-1N:E
+  model: banding.Species
+  pk: 7212
+- fields:
+    alternative: null
+    categorie: null
+    code: ANAACU
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: ANAACU_
+    id_taxon: '7256'
+    nom_scientifique: Anas acuta
+    nom_vernaculaire: Canard pilet
+    position: Ta
+    recommandation: 08.5/09.0 Aci-1N:E
+  model: banding.Species
+  pk: 7256
+- fields:
+    alternative: null
+    categorie: null
+    code: ANAPEN
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: ANAPEN_
+    id_taxon: '7223'
+    nom_scientifique: Anas penelope
+    nom_vernaculaire: Canard siffleur
+    position: Ta
+    recommandation: 08.5/09.0 Aci-1N:E
+  model: banding.Species
+  pk: 7223
+- fields:
+    alternative: null
+    categorie: null
+    code: ANACLY
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: ANACLY_
+    id_taxon: '7270'
+    nom_scientifique: Anas clypeata
+    nom_vernaculaire: Canard souchet
+    position: Ta
+    recommandation: 08.5/09.0 Aci-1N:E
+  model: banding.Species
+  pk: 7270
+- fields:
+    alternative: null
+    categorie: null
+    code: LONICA
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: LONICA_
+    id_taxon: '17461'
+    nom_scientifique: Lonchura malabarica
+    nom_vernaculaire: Capucin bec-de-plomb
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 17461
+- fields:
+    alternative: null
+    categorie: null
+    code: NUCCAR
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: NUCCAR_
+    id_taxon: '13934'
+    nom_scientifique: Nucifraga caryocatactes
+    nom_vernaculaire: Cassenoix moucheté
+    position: Ta
+    recommandation: 06.0/07.0 Alu-1N:GY
+  model: banding.Species
+  pk: 13934
+- fields:
+    alternative: null
+    categorie: null
+    code: CARLIS
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: CARLIS_
+    id_taxon: '17613'
+    nom_scientifique: Carduelis carduelis
+    nom_vernaculaire: Chardonneret élégant
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 17613
+- fields:
+    alternative: null
+    categorie: null
+    code: TRINEB
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: TRINEB_
+    id_taxon: '8473'
+    nom_scientifique: Tringa nebularia
+    nom_vernaculaire: Chevalier aboyeur
+    position: Ti
+    recommandation: 05.0/06.5 Aci-1N:G
+  model: banding.Species
+  pk: 8473
+- fields:
+    alternative: null
+    categorie: null
+    code: TRIERY
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: TRIERY_
+    id_taxon: '8470'
+    nom_scientifique: Tringa erythropus
+    nom_vernaculaire: Chevalier arlequin
+    position: Ti
+    recommandation: 05.0/06.5 Aci-1N:G
+  model: banding.Species
+  pk: 8470
+- fields:
+    alternative: null
+    categorie: null
+    code: TRICIN
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: TRICIN_
+    id_taxon: '8480'
+    nom_scientifique: Tringa cinerea
+    nom_vernaculaire: Chevalier bargette
+    position: Ti
+    recommandation: 03.0/05.0 Aci-1N:S
+  model: banding.Species
+  pk: 8480
+- fields:
+    alternative: null
+    categorie: null
+    code: TRIOCH
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: TRIOCH_
+    id_taxon: '8478'
+    nom_scientifique: Tringa ochropus
+    nom_vernaculaire: Chevalier cul-blanc
+    position: Ti
+    recommandation: 04.2/07.0 Aci-1N:M
+  model: banding.Species
+  pk: 8478
+- fields:
+    alternative: null
+    categorie: null
+    code: TRITOT
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: TRITOT_
+    id_taxon: '8471'
+    nom_scientifique: Tringa totanus
+    nom_vernaculaire: Chevalier gambette
+    position: Ti
+    recommandation: 05.0/06.5 Aci-1N:G
+  model: banding.Species
+  pk: 8471
+- fields:
+    alternative: null
+    categorie: null
+    code: ACTHYP
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: ACTHYP_
+    id_taxon: '8481'
+    nom_scientifique: Tringa hypoleucos
+    nom_vernaculaire: Chevalier guignette
+    position: Ti
+    recommandation: 03.0/05.0 Aci-1N:S
+  model: banding.Species
+  pk: 8481
+- fields:
+    alternative: null
+    categorie: null
+    code: TRISTA
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: TRISTA_
+    id_taxon: '8472'
+    nom_scientifique: Tringa stagnatilis
+    nom_vernaculaire: Chevalier stagnatile
+    position: Ti
+    recommandation: 03.0/05.0 Aci-1N:S
+  model: banding.Species
+  pk: 8472
+- fields:
+    alternative: null
+    categorie: null
+    code: TRIGLA
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: TRIGLA_
+    id_taxon: '8479'
+    nom_scientifique: Tringa glareola
+    nom_vernaculaire: Chevalier sylvain
+    position: Ti
+    recommandation: 03.0/05.0 Aci-1N:S
+  model: banding.Species
+  pk: 8479
+- fields:
+    alternative: 07.0/09.0 Alu-1N:F Ta
+    categorie: null
+    code: ATHNOC
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: ATHNOC_
+    id_taxon: '10075'
+    nom_scientifique: Athene noctua
+    nom_vernaculaire: Chevêche d'Athéna
+    position: Ta
+    recommandation: 08.5/09.0 Alu-1N:E
+  model: banding.Species
+  pk: 10075
+- fields:
+    alternative: null
+    categorie: null
+    code: GLAPAS
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: GLAPAS_
+    id_taxon: '10047'
+    nom_scientifique: Glaucidium passerinum
+    nom_vernaculaire: Chevêchette d'Europe
+    position: Ta
+    recommandation: 06.0/07.0 Alu-1N:GY
+  model: banding.Species
+  pk: 10047
+- fields:
+    alternative: 07.0/10.0 Alu-1N:F Ta
+    categorie: null
+    code: PYRGRA
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PYRGRA_
+    id_taxon: '13937'
+    nom_scientifique: Pyrrhocorax graculus
+    nom_vernaculaire: Chocard à bec jaune
+    position: Ta
+    recommandation: 07.0/10.0 Aci-1N:F
+  model: banding.Species
+  pk: 13937
+- fields:
+    alternative: null
+    categorie: null
+    code: CODULA
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: CODULA_
+    id_taxon: '13941'
+    nom_scientifique: Corvus monedula
+    nom_vernaculaire: Choucas des tours
+    position: Ta
+    recommandation: 07.0/09.0 Alu-1N:F
+  model: banding.Species
+  pk: 13941
+- fields:
+    alternative: null
+    categorie: null
+    code: AEGFUN
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: AEGFUN_
+    id_taxon: '10081'
+    nom_scientifique: Aegolius funereus
+    nom_vernaculaire: Chouette de Tengmalm
+    position: Ta
+    recommandation: 08.5/09.0 Alu-1N:E
+  model: banding.Species
+  pk: 10081
+- fields:
+    alternative: null
+    categorie: null
+    code: STRALU
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: STRALU_
+    id_taxon: '10021'
+    nom_scientifique: Strix aluco
+    nom_vernaculaire: Chouette hulotte
+    position: Ta
+    recommandation: 11.0/10.0 Alu-1N:H
+  model: banding.Species
+  pk: 10021
+- fields:
+    alternative: 16.0/35.0 Alu-1N:P Ti
+    categorie: null
+    code: CICCIC
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: CICCIC_
+    id_taxon: '7077'
+    nom_scientifique: Ciconia ciconia
+    nom_vernaculaire: Cigogne blanche
+    position: Ti
+    recommandation: 18.0/10.0 Alu-1N:C
+  model: banding.Species
+  pk: 7077
+- fields:
+    alternative: 16.0/35.0 Alu-1N:P Ti
+    categorie: null
+    code: CICNIG
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: CICNIG_
+    id_taxon: '7072'
+    nom_scientifique: Ciconia nigra
+    nom_vernaculaire: Cigogne noire
+    position: Ti
+    recommandation: 18.0/10.0 Alu-1N:C
+  model: banding.Species
+  pk: 7072
+- fields:
+    alternative: 03.5/05.5 Alu-1N:L Ta
+    categorie: null
+    code: CICLUS
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: CICLUS_
+    id_taxon: '14579'
+    nom_scientifique: Cinclus cinclus
+    nom_vernaculaire: Cincle plongeur
+    position: Ta
+    recommandation: 04.2/07.0 Alu-1N:J
+  model: banding.Species
+  pk: 14579
+- fields:
+    alternative: null
+    categorie: null
+    code: CIRGAL
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: CIRGAL_
+    id_taxon: '7423'
+    nom_scientifique: Circaetus gallicus
+    nom_vernaculaire: Circaète Jean-le-Blanc
+    position: Ta
+    recommandation: 15.0/10.0 Alu-1N:C
+  model: banding.Species
+  pk: 7423
+- fields:
+    alternative: null
+    categorie: null
+    code: CISJUN
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: CISJUN_
+    id_taxon: '16152'
+    nom_scientifique: Cisticola juncidis
+    nom_vernaculaire: Cisticole des joncs
+    position: Ta
+    recommandation: 02.0/05.0 Alu-1N:R
+  model: banding.Species
+  pk: 16152
+- fields:
+    alternative: null
+    categorie: null
+    code: GALTHE
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: GALTHE_
+    id_taxon: '16846'
+    nom_scientifique: Galerida theklae
+    nom_vernaculaire: Cochevis de Thékla
+    position: Ta
+    recommandation: 03.0/05.5 Alu-1N:S
+  model: banding.Species
+  pk: 16846
+- fields:
+    alternative: 03.5/05.5 Alu-1N:L Ta
+    categorie: null
+    code: GALATA
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: GALATA_
+    id_taxon: '16845'
+    nom_scientifique: Galerida cristata
+    nom_vernaculaire: Cochevis huppé
+    position: Ta
+    recommandation: 03.0/05.5 Alu-1N:S
+  model: banding.Species
+  pk: 16845
+- fields:
+    alternative: null
+    categorie: M
+    code: PHIPUG
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PHIPUG_M
+    id_taxon: '8527'
+    nom_scientifique: Philomachus pugnax
+    nom_vernaculaire: Combattant varié
+    position: Ti
+    recommandation: 05.0/06.5 Aci-1N:G
+  model: banding.Species
+  pk: 8527
+- fields:
+    alternative: null
+    categorie: F
+    code: PHIPUG
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PHIPUG_F
+    id_taxon: '8527'
+    nom_scientifique: Philomachus pugnax
+    nom_vernaculaire: Combattant varié
+    position: Ti
+    recommandation: 04.2/07.0 Aci-1N:M
+  model: banding.Species
+  pk: 8527
+- fields:
+    alternative: 08.5/09.0 Alu-1N:E Ta
+    categorie: null
+    code: CORFRU
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: CORFRU_
+    id_taxon: '13956'
+    nom_scientifique: Corvus frugilegus
+    nom_vernaculaire: Corbeau freux
+    position: Ta
+    recommandation: 08.5/09.0 Aci-1N:E
+  model: banding.Species
+  pk: 13956
+- fields:
+    alternative: null
+    categorie: null
+    code: PHAARI
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PHAARI_
+    id_taxon: '6898'
+    nom_scientifique: Phalacrocorax aristotelis
+    nom_vernaculaire: Cormoran huppé
+    position: Ta
+    recommandation: 16.0/12.0 Aci-1N:C
+  model: banding.Species
+  pk: 6898
+- fields:
+    alternative: null
+    categorie: null
+    code: PHAPYG
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PHAPYG_
+    id_taxon: '6864'
+    nom_scientifique: Phalacrocorax pygmeus
+    nom_vernaculaire: Cormoran pygmée
+    position: Ta
+    recommandation: 13.0/10.0 Aci-1N:D
+  model: banding.Species
+  pk: 6864
+- fields:
+    alternative: 08.5/09.0 Alu-1N:E Ta
+    categorie: null
+    code: CORONENIX
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: CORONENIX_
+    id_taxon: '18814'
+    nom_scientifique: Corvus corone cornix
+    nom_vernaculaire: Corneille mantelée
+    position: Ta
+    recommandation: 08.5/09.0 Aci-1N:E
+  model: banding.Species
+  pk: 18814
+- fields:
+    alternative: 08.5/09.0 Alu-1N:E Ta
+    categorie: null
+    code: CORONE
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: CORONE_
+    id_taxon: '13966'
+    nom_scientifique: Corvus corone
+    nom_vernaculaire: Corneille noire
+    position: Ta
+    recommandation: 08.5/09.0 Aci-1N:E
+  model: banding.Species
+  pk: 13966
+- fields:
+    alternative: null
+    categorie: null
+    code: CLAGLA
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: CLAGLA_
+    id_taxon: '9734'
+    nom_scientifique: Clamator glandarius
+    nom_vernaculaire: Coucou geai
+    position: Ta
+    recommandation: 06.0/07.0 Alu-1N:GY
+  model: banding.Species
+  pk: 9734
+- fields:
+    alternative: null
+    categorie: null
+    code: CUCCAN
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: CUCCAN_
+    id_taxon: '9746'
+    nom_scientifique: Cuculus canorus
+    nom_vernaculaire: Coucou gris
+    position: Ta
+    recommandation: 05.0/07.0 Alu-1N:G
+  model: banding.Species
+  pk: 9746
+- fields:
+    alternative: null
+    categorie: null
+    code: NUMARQ
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: NUMARQ_
+    id_taxon: '8464'
+    nom_scientifique: Numenius arquata
+    nom_vernaculaire: Courlis cendré
+    position: Ti
+    recommandation: 08.5/09.0 Aci-1N:E
+  model: banding.Species
+  pk: 8464
+- fields:
+    alternative: null
+    categorie: null
+    code: NUMPHA
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: NUMPHA_
+    id_taxon: '8461'
+    nom_scientifique: Numenius phaeopus
+    nom_vernaculaire: Courlis corlieu
+    position: Ti
+    recommandation: 07.0/10.0 Aci-1N:F
+  model: banding.Species
+  pk: 8461
+- fields:
+    alternative: null
+    categorie: null
+    code: CURSOR
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: CURSOR_
+    id_taxon: '8684'
+    nom_scientifique: Cursorius cursor
+    nom_vernaculaire: Courvite isabelle
+    position: Ta
+    recommandation: 06.0/07.0 Alu-1N:GY
+  model: banding.Species
+  pk: 8684
+- fields:
+    alternative: null
+    categorie: null
+    code: ARDRAL
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: ARDRAL_
+    id_taxon: '6961'
+    nom_scientifique: Ardeola ralloides
+    nom_vernaculaire: Crabier chevelu
+    position: Ti
+    recommandation: 07.0/09.0 Alu-1N:F
+  model: banding.Species
+  pk: 6961
+- fields:
+    alternative: 07.0/10.0 Alu-1N:F Ta
+    categorie: null
+    code: PYRRAX
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PYRRAX_
+    id_taxon: '13936'
+    nom_scientifique: Pyrrhocorax pyrrhocorax
+    nom_vernaculaire: Crave à bec rouge
+    position: Ta
+    recommandation: 07.0/10.0 Aci-1N:F
+  model: banding.Species
+  pk: 13936
+- fields:
+    alternative: null
+    categorie: null
+    code: CYGCYG
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: CYGCYG_
+    id_taxon: '7145'
+    nom_scientifique: Cygnus cygnus
+    nom_vernaculaire: Cygne chanteur
+    position: Ta
+    recommandation: 26.0/20.0 Aci-1N:T
+  model: banding.Species
+  pk: 7145
+- fields:
+    alternative: null
+    categorie: null
+    code: CYGCOL
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: CYGCOL_
+    id_taxon: '7147'
+    nom_scientifique: Cygnus columbianus
+    nom_vernaculaire: Cygne de Bewick
+    position: Ta
+    recommandation: 26.0/20.0 Aci-1N:T
+  model: banding.Species
+  pk: 7147
+- fields:
+    alternative: null
+    categorie: null
+    code: CYGATR
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: CYGATR_
+    id_taxon: '7143'
+    nom_scientifique: Cygnus atratus
+    nom_vernaculaire: Cygne noir
+    position: Ta
+    recommandation: 22.0/12.0 Aci-1N:B
+  model: banding.Species
+  pk: 7143
+- fields:
+    alternative: null
+    categorie: null
+    code: CYGOLO
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: CYGOLO_
+    id_taxon: '7142'
+    nom_scientifique: Cygnus olor
+    nom_vernaculaire: Cygne tuberculé
+    position: Ta
+    recommandation: 26.0/20.0 Aci-1N:T
+  model: banding.Species
+  pk: 7142
+- fields:
+    alternative: null
+    categorie: null
+    code: HIMHIM
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: HIMHIM_
+    id_taxon: '8658'
+    nom_scientifique: Himantopus himantopus
+    nom_vernaculaire: Échasse blanche
+    position: Ti
+    recommandation: 06.0/07.0 Aci-1N:YG
+  model: banding.Species
+  pk: 8658
+- fields:
+    alternative: null
+    categorie: null
+    code: TYTALB
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: TYTALB_
+    id_taxon: '9917'
+    nom_scientifique: Tyto alba
+    nom_vernaculaire: Effraie des clochers
+    position: Ta
+    recommandation: 08.5/09.0 Alu-1N:E
+  model: banding.Species
+  pk: 9917
+- fields:
+    alternative: null
+    categorie: null
+    code: SOMMOL
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: SOMMOL_
+    id_taxon: '7295'
+    nom_scientifique: Somateria mollissima
+    nom_vernaculaire: Eider à duvet
+    position: Ta
+    recommandation: 13.0/10.0 Aci-1N:D
+  model: banding.Species
+  pk: 7295
+- fields:
+    alternative: null
+    categorie: null
+    code: ELACAE
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: ELACAE_
+    id_taxon: '7364'
+    nom_scientifique: Elanus caeruleus
+    nom_vernaculaire: Élanion blanc
+    position: Ta
+    recommandation: 08.5/09.0 Alu-1N:E
+  model: banding.Species
+  pk: 7364
+- fields:
+    alternative: 04.2/07.0 Alu-1N:J Ta
+    categorie: null
+    code: GUSLIS
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: GUSLIS_
+    id_taxon: '10215'
+    nom_scientifique: Caprimulgus ruficollis
+    nom_vernaculaire: Engoulevent à collier roux
+    position: Ta
+    recommandation: 04.0/05.0 Alu-1N:AX
+  model: banding.Species
+  pk: 10215
+- fields:
+    alternative: 04.2/07.0 Alu-1N:J Ta
+    categorie: null
+    code: CAPEUR
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: CAPEUR_
+    id_taxon: '10217'
+    nom_scientifique: Caprimulgus europaeus
+    nom_vernaculaire: Engoulevent d'Europe
+    position: Ta
+    recommandation: 04.0/05.0 Alu-1N:AX
+  model: banding.Species
+  pk: 10217
+- fields:
+    alternative: null
+    categorie: M
+    code: ACCNIS
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: ACCNIS_M
+    id_taxon: '7505'
+    nom_scientifique: Accipiter nisus
+    nom_vernaculaire: Épervier d'Europe
+    position: Ta
+    recommandation: 05.0/07.0 Alu-1N:G
+  model: banding.Species
+  pk: 7505
+- fields:
+    alternative: 07.0/09.0 Alu-1N:F Ta
+    categorie: F
+    code: ACCNIS
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: ACCNIS_F
+    id_taxon: '7505'
+    nom_scientifique: Accipiter nisus
+    nom_vernaculaire: Épervier d'Europe
+    position: Ta
+    recommandation: 06.0/07.0 Alu-1N:GY
+  model: banding.Species
+  pk: 7505
+- fields:
+    alternative: null
+    categorie: null
+    code: OXYLEU
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: OXYLEU_
+    id_taxon: '7133'
+    nom_scientifique: Oxyura leucocephala
+    nom_vernaculaire: Érismature à tête blanche
+    position: Ta
+    recommandation: 11.0/10.0 Aci-1N:K
+  model: banding.Species
+  pk: 7133
+- fields:
+    alternative: null
+    categorie: null
+    code: OXYJAM
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: OXYJAM_
+    id_taxon: '7131'
+    nom_scientifique: Oxyura jamaicensis
+    nom_vernaculaire: Érismature rousse
+    position: Ta
+    recommandation: 11.0/10.0 Aci-1N:K
+  model: banding.Species
+  pk: 7131
+- fields:
+    alternative: null
+    categorie: null
+    code: STUROS
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: STUROS_
+    id_taxon: '15217'
+    nom_scientifique: Sturnus roseus
+    nom_vernaculaire: Étourneau roselin
+    position: Ta
+    recommandation: 04.2/07.0 Alu-1N:J
+  model: banding.Species
+  pk: 15217
+- fields:
+    alternative: null
+    categorie: null
+    code: STUVUL
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: STUVUL_
+    id_taxon: '15218'
+    nom_scientifique: Sturnus vulgaris
+    nom_vernaculaire: Étourneau sansonnet
+    position: Ta
+    recommandation: 04.2/07.0 Alu-1N:J
+  model: banding.Species
+  pk: 15218
+- fields:
+    alternative: null
+    categorie: null
+    code: STUUNI
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: STUUNI_
+    id_taxon: '15219'
+    nom_scientifique: Sturnus unicolor
+    nom_vernaculaire: Étourneau unicolore
+    position: Ta
+    recommandation: 04.2/07.0 Alu-1N:J
+  model: banding.Species
+  pk: 15219
+- fields:
+    alternative: null
+    categorie: M
+    code: PHACUS
+    commentaire: bague au dessus de l'ergot des mâles, ne pas baguer les jeunes
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PHACUS_M
+    id_taxon: '8085'
+    nom_scientifique: Phasianus colchicus
+    nom_vernaculaire: Faisan de Colchide
+    position: Ta
+    recommandation: 13.0/10.0 Alu-1N:D
+  model: banding.Species
+  pk: 8085
+- fields:
+    alternative: null
+    categorie: F
+    code: PHACUS
+    commentaire: bague au dessus de l'ergot des mâles, ne pas baguer les jeunes
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PHACUS_F
+    id_taxon: '8085'
+    nom_scientifique: Phasianus colchicus
+    nom_vernaculaire: Faisan de colchide
+    position: Ta
+    recommandation: 11.0/10.0 Alu-1N:H
+  model: banding.Species
+  pk: 8085
+- fields:
+    alternative: null
+    categorie: null
+    code: FALTIN
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: FALTIN_
+    id_taxon: '1004'
+    nom_scientifique: Falco tinnunculus
+    nom_vernaculaire: Faucon crécerelle
+    position: Ta
+    recommandation: 07.0/09.0 Alu-1N:F
+  model: banding.Species
+  pk: 1004
+- fields:
+    alternative: 06.0/07.0 Alu-1N:GY Ta
+    categorie: null
+    code: FALNAU
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: FALNAU_
+    id_taxon: '7695'
+    nom_scientifique: Falco naumanni
+    nom_vernaculaire: Faucon crécerellette
+    position: Ta
+    recommandation: 07.0/09.0 Alu-1N:F
+  model: banding.Species
+  pk: 7695
+- fields:
+    alternative: null
+    categorie: null
+    code: FALELE
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: FALELE_
+    id_taxon: '7711'
+    nom_scientifique: Falco eleonorae
+    nom_vernaculaire: Faucon d'Éléonore
+    position: Ta
+    recommandation: 07.0/09.0 Alu-1N:F
+  model: banding.Species
+  pk: 7711
+- fields:
+    alternative: null
+    categorie: F
+    code: FALCOL
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: FALCOL_F
+    id_taxon: '7714'
+    nom_scientifique: Falco columbarius
+    nom_vernaculaire: Faucon émerillon
+    position: Ta
+    recommandation: 06.0/07.0 Alu-1N:GY
+  model: banding.Species
+  pk: 7714
+- fields:
+    alternative: null
+    categorie: M
+    code: FALCOL
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: FALCOL_M
+    id_taxon: '7714'
+    nom_scientifique: Falco columbarius
+    nom_vernaculaire: Faucon émerillon
+    position: Ta
+    recommandation: 05.0/07.0 Alu-1N:G
+  model: banding.Species
+  pk: 7714
+- fields:
+    alternative: null
+    categorie: null
+    code: FALTEO
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: FALTEO_
+    id_taxon: '7716'
+    nom_scientifique: Falco subbuteo
+    nom_vernaculaire: Faucon hobereau
+    position: Ta
+    recommandation: 07.0/09.0 Alu-1N:F
+  model: banding.Species
+  pk: 7716
+- fields:
+    alternative: null
+    categorie: null
+    code: FALVES
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: FALVES_
+    id_taxon: '7709'
+    nom_scientifique: Falco vespertinus
+    nom_vernaculaire: Faucon kobez
+    position: Ta
+    recommandation: 06.0/07.0 Alu-1N:GY
+  model: banding.Species
+  pk: 7709
+- fields:
+    alternative: null
+    categorie: null
+    code: FALBIA
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: FALBIA_
+    id_taxon: '7723'
+    nom_scientifique: Falco biarmicus
+    nom_vernaculaire: Faucon lanier
+    position: Ta
+    recommandation: 13.0/10.0 Alu-1N:D
+  model: banding.Species
+  pk: 7723
+- fields:
+    alternative: null
+    categorie: M
+    code: FALPER
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: FALPER_M
+    id_taxon: '1006'
+    nom_scientifique: Falco peregrinus
+    nom_vernaculaire: Faucon pelerin
+    position: Ta
+    recommandation: 11.0/10.0 Alu-1N:H
+  model: banding.Species
+  pk: 1006
+- fields:
+    alternative: null
+    categorie: F
+    code: FALPER
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: FALPER_F
+    id_taxon: '1006'
+    nom_scientifique: Falco peregrinus
+    nom_vernaculaire: Faucon pèlerin
+    position: Ta
+    recommandation: 13.0/10.0 Alu-1N:D
+  model: banding.Species
+  pk: 1006
+- fields:
+    alternative: null
+    categorie: null
+    code: SYLCON
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: SYLCON_
+    id_taxon: '16402'
+    nom_scientifique: Sylvia conspicillata
+    nom_vernaculaire: Fauvette à lunettes
+    position: Ta
+    recommandation: 02.0/05.0 Alu-1N:R
+  model: banding.Species
+  pk: 16402
+- fields:
+    alternative: null
+    categorie: null
+    code: SYLATR
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: SYLATR_
+    id_taxon: '16387'
+    nom_scientifique: Sylvia atricapilla
+    nom_vernaculaire: Fauvette à tête noire
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 16387
+- fields:
+    alternative: null
+    categorie: null
+    code: SYLCUR
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: SYLCUR_
+    id_taxon: '16390'
+    nom_scientifique: Sylvia curruca
+    nom_vernaculaire: Fauvette babillarde
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 16390
+- fields:
+    alternative: null
+    categorie: null
+    code: SYLBOR
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: SYLBOR_
+    id_taxon: '16388'
+    nom_scientifique: Sylvia borin
+    nom_vernaculaire: Fauvette des jardins
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 16388
+- fields:
+    alternative: null
+    categorie: null
+    code: SYLNIS
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: SYLNIS_
+    id_taxon: '16394'
+    nom_scientifique: Sylvia nisoria
+    nom_vernaculaire: Fauvette épervière
+    position: Ta
+    recommandation: 02.5/05.0 Alu-1N:V
+  model: banding.Species
+  pk: 16394
+- fields:
+    alternative: null
+    categorie: null
+    code: SYLCOM
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: SYLCOM_
+    id_taxon: '16389'
+    nom_scientifique: Sylvia communis
+    nom_vernaculaire: Fauvette grisette
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 16389
+- fields:
+    alternative: null
+    categorie: null
+    code: SYLALA
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: SYLALA_
+    id_taxon: '16398'
+    nom_scientifique: Sylvia melanocephala
+    nom_vernaculaire: Fauvette mélanocéphale
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 16398
+- fields:
+    alternative: null
+    categorie: null
+    code: SYLHOR
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: SYLHOR_
+    id_taxon: '16395'
+    nom_scientifique: Sylvia hortensis
+    nom_vernaculaire: Fauvette orphée
+    position: Ta
+    recommandation: 02.5/05.0 Alu-1N:V
+  model: banding.Species
+  pk: 16395
+- fields:
+    alternative: null
+    categorie: null
+    code: SYLCAN
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: SYLCAN_
+    id_taxon: '16400'
+    nom_scientifique: Sylvia cantillans
+    nom_vernaculaire: Fauvette passerinette
+    position: Ta
+    recommandation: 02.0/05.0 Alu-1N:R
+  model: banding.Species
+  pk: 16400
+- fields:
+    alternative: null
+    categorie: null
+    code: SYLUND
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: SYLUND_
+    id_taxon: '16404'
+    nom_scientifique: Sylvia undata
+    nom_vernaculaire: Fauvette pitchou
+    position: Ta
+    recommandation: 02.0/05.0 Alu-1N:R
+  model: banding.Species
+  pk: 16404
+- fields:
+    alternative: null
+    categorie: null
+    code: SYLSAR
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: SYLSAR_
+    id_taxon: '16405'
+    nom_scientifique: Sylvia sarda
+    nom_vernaculaire: Fauvette sarde
+    position: Ta
+    recommandation: 02.0/05.0 Alu-1N:R
+  model: banding.Species
+  pk: 16405
+- fields:
+    alternative: null
+    categorie: null
+    code: PHORUB
+    commentaire: ou bague PP (Tour du Valat)
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PHORUB_
+    id_taxon: '7104'
+    nom_scientifique: Phoenicopterus ruber
+    nom_vernaculaire: Flamand rose
+    position: Ti
+    recommandation: 16.0/12.0 Aci-1N:C
+  model: banding.Species
+  pk: 7104
+- fields:
+    alternative: null
+    categorie: null
+    code: PHOMIN
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PHOMIN_
+    id_taxon: '7106'
+    nom_scientifique: Phoenicopterus minor
+    nom_vernaculaire: Flamant nain
+    position: Ti
+    recommandation: 13.0/10.0 Aci-1N:D
+  model: banding.Species
+  pk: 7106
+- fields:
+    alternative: null
+    categorie: null
+    code: SULBAS
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: SULBAS_
+    id_taxon: '6851'
+    nom_scientifique: Morus bassanus
+    nom_vernaculaire: Fou de Bassan
+    position: Ta
+    recommandation: 16.0/12.0 Aci-1N:C
+  model: banding.Species
+  pk: 6851
+- fields:
+    alternative: null
+    categorie: null
+    code: FULCRI
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: FULCRI_
+    id_taxon: '8316'
+    nom_scientifique: Fulica cristata
+    nom_vernaculaire: Foulque à crête
+    position: Ta
+    recommandation: 11.0/10.0 Aci-1N:K
+  model: banding.Species
+  pk: 8316
+- fields:
+    alternative: 13.0/10.0 Aci-1N:D Ta
+    categorie: null
+    code: FULATR
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: FULATR_
+    id_taxon: '8317'
+    nom_scientifique: Fulica atra
+    nom_vernaculaire: Foulque macroule
+    position: Ta
+    recommandation: 11.0/10.0 Aci-1N:K
+  model: banding.Species
+  pk: 8317
+- fields:
+    alternative: null
+    categorie: null
+    code: AYTFER
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: AYTFER_
+    id_taxon: '7282'
+    nom_scientifique: Aythya ferina
+    nom_vernaculaire: Fuligule milouin
+    position: Ta
+    recommandation: 11.0/10.0 Aci-1N:K
+  model: banding.Species
+  pk: 7282
+- fields:
+    alternative: null
+    categorie: null
+    code: AYTMAR
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: AYTMAR_
+    id_taxon: '7292'
+    nom_scientifique: Aythya marila
+    nom_vernaculaire: Fuligule milouinan
+    position: Ta
+    recommandation: 11.0/10.0 Aci-1N:K
+  model: banding.Species
+  pk: 7292
+- fields:
+    alternative: null
+    categorie: null
+    code: AYTFUL
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: AYTFUL_
+    id_taxon: '7290'
+    nom_scientifique: Aythya fuligula
+    nom_vernaculaire: Fuligule morillon
+    position: Ta
+    recommandation: 08.5/09.0 Aci-1N:E
+  model: banding.Species
+  pk: 7290
+- fields:
+    alternative: null
+    categorie: null
+    code: AYTNYR
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: AYTNYR_
+    id_taxon: '7286'
+    nom_scientifique: Aythya nyroca
+    nom_vernaculaire: Fuligule nyroca
+    position: Ta
+    recommandation: 08.5/09.0 Aci-1N:E
+  model: banding.Species
+  pk: 7286
+- fields:
+    alternative: null
+    categorie: null
+    code: FULLIS
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: FULLIS_
+    id_taxon: '6710'
+    nom_scientifique: Fulmarus glacialis
+    nom_vernaculaire: Fulmar boréal
+    position: Ta
+    recommandation: 08.5/09.0 Aci-1N:E
+  model: banding.Species
+  pk: 6710
+- fields:
+    alternative: 08.5/09.0 Alu-1N:E Ta
+    categorie: null
+    code: GALCHL
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: GALCHL_
+    id_taxon: '8309'
+    nom_scientifique: Gallinula chloropus
+    nom_vernaculaire: Gallinule poule-d'eau
+    position: Ti
+    recommandation: 07.0/09.0 Alu-1N:F
+  model: banding.Species
+  pk: 8309
+- fields:
+    alternative: null
+    categorie: null
+    code: PTEALC
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PTEALC_
+    id_taxon: '8868'
+    nom_scientifique: Pterocles alchata
+    nom_vernaculaire: Ganga cata
+    position: Ta
+    recommandation: 07.0/09.0 Alu-1N:F
+  model: banding.Species
+  pk: 8868
+- fields:
+    alternative: null
+    categorie: null
+    code: BUCCLA
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: BUCCLA_
+    id_taxon: '7313'
+    nom_scientifique: Bucephala clangula
+    nom_vernaculaire: Garrot à oeil d'or
+    position: Ta
+    recommandation: 11.0/10.0 Aci-1N:K
+  model: banding.Species
+  pk: 7313
+- fields:
+    alternative: 05.0/07.0 Alu-1N:G Ta
+    categorie: null
+    code: GARGLA
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: GARGLA_
+    id_taxon: '13888'
+    nom_scientifique: Garrulus glandarius
+    nom_vernaculaire: Geai des chênes
+    position: Ta
+    recommandation: 06.0/07.0 Alu-1N:GY
+  model: banding.Species
+  pk: 13888
+- fields:
+    alternative: null
+    categorie: null
+    code: BONBON
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: BONBON_
+    id_taxon: '7901'
+    nom_scientifique: Bonasa bonasia
+    nom_vernaculaire: Gélinotte des bois
+    position: Ta
+    recommandation: 07.0/09.0 Alu-1N:F
+  model: banding.Species
+  pk: 7901
+- fields:
+    alternative: null
+    categorie: null
+    code: GLAPRA
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: GLAPRA_
+    id_taxon: '8689'
+    nom_scientifique: Glareola pratincola
+    nom_vernaculaire: Glaréole à collier
+    position: Ti
+    recommandation: 04.2/07.0 Aci-1N:M
+  model: banding.Species
+  pk: 8689
+- fields:
+    alternative: null
+    categorie: null
+    code: FICALB
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: FICALB_
+    id_taxon: '14860'
+    nom_scientifique: Ficedula albicollis
+    nom_vernaculaire: Gobemouche à collier
+    position: Ta
+    recommandation: 02.0/05.0 Alu-1N:R
+  model: banding.Species
+  pk: 14860
+- fields:
+    alternative: null
+    categorie: null
+    code: FICSEM
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: FICSEM_
+    id_taxon: '14861'
+    nom_scientifique: Ficedula semitorquata
+    nom_vernaculaire: Gobemouche à demi-collier
+    position: Ta
+    recommandation: 02.0/05.0 Alu-1N:R
+  model: banding.Species
+  pk: 14861
+- fields:
+    alternative: null
+    categorie: null
+    code: MUSSTR
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: MUSSTR_
+    id_taxon: '14828'
+    nom_scientifique: Muscicapa striata
+    nom_vernaculaire: Gobemouche gris
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 14828
+- fields:
+    alternative: null
+    categorie: null
+    code: FICPAR
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: FICPAR_
+    id_taxon: '14867'
+    nom_scientifique: Ficedula parva
+    nom_vernaculaire: Gobemouche nain
+    position: Ta
+    recommandation: 02.0/05.0 Alu-1N:R
+  model: banding.Species
+  pk: 14867
+- fields:
+    alternative: null
+    categorie: null
+    code: FICUCA
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: FICUCA_
+    id_taxon: '14859'
+    nom_scientifique: Ficedula hypoleuca
+    nom_vernaculaire: Gobemouche noir
+    position: Ta
+    recommandation: 02.0/05.0 Alu-1N:R
+  model: banding.Species
+  pk: 14859
+- fields:
+    alternative: null
+    categorie: null
+    code: MUSSTRTYR
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: MUSSTRTYR_
+    id_taxon: '18910'
+    nom_scientifique: Muscicapa striata tyrrhenica
+    nom_vernaculaire: Gobemouche tyrrhenien
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 18910
+- fields:
+    alternative: null
+    categorie: null
+    code: LARDES
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: LARDES_
+    id_taxon: '8730'
+    nom_scientifique: Larus glaucoides
+    nom_vernaculaire: Goéland à ailes blanches
+    position: Ti
+    recommandation: 08.5/09.0 Aci-1N:E
+  model: banding.Species
+  pk: 8730
+- fields:
+    alternative: null
+    categorie: null
+    code: LARARG
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: LARARG_
+    id_taxon: '8732'
+    nom_scientifique: Larus argentatus
+    nom_vernaculaire: Goéland argenté
+    position: Ti
+    recommandation: 11.0/10.0 Aci-1N:K
+  model: banding.Species
+  pk: 8732
+- fields:
+    alternative: null
+    categorie: null
+    code: LARHYP
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: LARHYP_
+    id_taxon: '8729'
+    nom_scientifique: Larus hyperboreus
+    nom_vernaculaire: Goéland bourgmestre
+    position: Ti
+    recommandation: 13.0/10.0 Aci-1N:D
+  model: banding.Species
+  pk: 8729
+- fields:
+    alternative: null
+    categorie: null
+    code: LARFUS
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: LARFUS_
+    id_taxon: '8736'
+    nom_scientifique: Larus fuscus
+    nom_vernaculaire: Goéland brun
+    position: Ti
+    recommandation: 08.5/09.0 Aci-1N:E
+  model: banding.Species
+  pk: 8736
+- fields:
+    alternative: null
+    categorie: null
+    code: LARCAN
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: LARCAN_
+    id_taxon: '8720'
+    nom_scientifique: Larus canus
+    nom_vernaculaire: Goéland cendré
+    position: Ti
+    recommandation: 07.0/10.0 Aci-1N:F
+  model: banding.Species
+  pk: 8720
+- fields:
+    alternative: null
+    categorie: null
+    code: LARAUD
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: LARAUD_
+    id_taxon: '8721'
+    nom_scientifique: Ichthyaetus audouinii
+    nom_vernaculaire: Goéland d'Audouin
+    position: Ti
+    recommandation: 08.5/09.0 Aci-1N:E
+  model: banding.Species
+  pk: 8721
+- fields:
+    alternative: null
+    categorie: null
+    code: LARCACMIC
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: LARCACMIC_
+    id_taxon: '18824'
+    nom_scientifique: Larus cachinnans michahellis
+    nom_vernaculaire: Goeland leucophé
+    position: Ti
+    recommandation: 11.0/10.0 Aci-1N:K
+  model: banding.Species
+  pk: 18824
+- fields:
+    alternative: null
+    categorie: null
+    code: LARMAR
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: LARMAR_
+    id_taxon: '8724'
+    nom_scientifique: Larus marinus
+    nom_vernaculaire: Goéland marin
+    position: Ti
+    recommandation: 13.0/10.0 Aci-1N:D
+  model: banding.Species
+  pk: 8724
+- fields:
+    alternative: null
+    categorie: null
+    code: LARCACCAC
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: LARCACCAC_
+    id_taxon: '18823'
+    nom_scientifique: Larus cachinnans cachinnans
+    nom_vernaculaire: Goéland pontique
+    position: Ti
+    recommandation: 11.0/10.0 Aci-1N:K
+  model: banding.Species
+  pk: 18823
+- fields:
+    alternative: null
+    categorie: null
+    code: LARGEN
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: LARGEN_
+    id_taxon: '8746'
+    nom_scientifique: Chroicocephalus genei
+    nom_vernaculaire: Goéland railleur
+    position: Ti
+    recommandation: 07.0/10.0 Aci-1N:F
+  model: banding.Species
+  pk: 8746
+- fields:
+    alternative: null
+    categorie: null
+    code: LUSSVE
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: LUSSVE_
+    id_taxon: '14956'
+    nom_scientifique: Luscinia svecica
+    nom_vernaculaire: Gorgebleue à miroir
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 14956
+- fields:
+    alternative: null
+    categorie: null
+    code: CORRAX
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: CORRAX_
+    id_taxon: '13982'
+    nom_scientifique: Corvus corax
+    nom_vernaculaire: Grand Corbeau
+    position: Ta
+    recommandation: 13.0/10.0 Aci-1N:D
+  model: banding.Species
+  pk: 13982
+- fields:
+    alternative: null
+    categorie: null
+    code: PHACAR
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PHACAR_
+    id_taxon: '6877'
+    nom_scientifique: Phalacrocorax carbo
+    nom_vernaculaire: Grand Cormoran
+    position: Ta
+    recommandation: 16.0/12.0 Aci-1N:C
+  model: banding.Species
+  pk: 6877
+- fields:
+    alternative: null
+    categorie: null
+    code: CATSKU
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: CATSKU_
+    id_taxon: '8700'
+    nom_scientifique: Catharacta skua
+    nom_vernaculaire: Grand Labbe
+    position: Ti
+    recommandation: 13.0/10.0 Aci-1N:D
+  model: banding.Species
+  pk: 8700
+- fields:
+    alternative: null
+    categorie: M
+    code: TETURO
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: TETURO_M
+    id_taxon: '7898'
+    nom_scientifique: Tetrao urogallus
+    nom_vernaculaire: Grand Tétras
+    position: Ta
+    recommandation: 18.0/10.0 Alu-1N:C
+  model: banding.Species
+  pk: 7898
+- fields:
+    alternative: null
+    categorie: F
+    code: TETURO
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: TETURO_F
+    id_taxon: '7898'
+    nom_scientifique: Tetrao urogallus
+    nom_vernaculaire: Grand tétras
+    position: Ta
+    recommandation: 13.0/10.0 Alu-1N:D
+  model: banding.Species
+  pk: 7898
+- fields:
+    alternative: null
+    categorie: null
+    code: BUBBUB
+    commentaire: Pertes de bague averées en B acier sans verrou
+    date_mise_a_jour: '2024-10-15'
+    id_ref: BUBBUB_
+    id_taxon: '9992'
+    nom_scientifique: Bubo bubo
+    nom_vernaculaire: Grand-duc d'Europe
+    position: Ta
+    recommandation: 19.0/10.0 Alu-1N:B-v
+  model: banding.Species
+  pk: 9992
+- fields:
+    alternative: null
+    categorie: null
+    code: EGRALB
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: EGRALB_
+    id_taxon: '6955'
+    nom_scientifique: Casmerodius albus
+    nom_vernaculaire: Grande aigrette
+    position: Ti
+    recommandation: 15.0/10.0 Alu-1N:C
+  model: banding.Species
+  pk: 6955
+- fields:
+    alternative: null
+    categorie: M
+    code: OTITAR
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: OTITAR_M
+    id_taxon: '8375'
+    nom_scientifique: Otis tarda
+    nom_vernaculaire: Grande Outarde
+    position: Ta
+    recommandation: 26.0/20.0 Aci-1N:T
+  model: banding.Species
+  pk: 8375
+- fields:
+    alternative: null
+    categorie: F
+    code: OTITAR
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: OTITAR_F
+    id_taxon: '8375'
+    nom_scientifique: Otis tarda
+    nom_vernaculaire: Grande Outarde
+    position: Ta
+    recommandation: 16.0/12.0 Aci-1N:C
+  model: banding.Species
+  pk: 8375
+- fields:
+    alternative: null
+    categorie: null
+    code: CHAHIA
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: CHAHIA_
+    id_taxon: '8569'
+    nom_scientifique: Charadrius hiaticula
+    nom_vernaculaire: Grand-gravelot
+    position: Ti
+    recommandation: 03.0/05.0 Aci-1N:S
+  model: banding.Species
+  pk: 8569
+- fields:
+    alternative: null
+    categorie: null
+    code: CHAHIA
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: CHAHIA_
+    id_taxon: '8569'
+    nom_scientifique: Charadrius hiaticula
+    nom_vernaculaire: Grand-gravelot
+    position: Ti
+    recommandation: 03.0/05.0 Aci-1N:S
+  model: banding.Species
+  pk: 8569
+- fields:
+    alternative: null
+    categorie: null
+    code: CHAALE
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: CHAALE_
+    id_taxon: '8582'
+    nom_scientifique: Charadrius alexandrinus
+    nom_vernaculaire: Gravelot à collier interrompu
+    position: Ti
+    recommandation: 03.0/05.0 Aci-1N:S
+  model: banding.Species
+  pk: 8582
+- fields:
+    alternative: null
+    categorie: null
+    code: PODNIG
+    commentaire: A ovaliser
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PODNIG_
+    id_taxon: '6643'
+    nom_scientifique: Podiceps nigricollis
+    nom_vernaculaire: Grèbe à cou noir
+    position: Ta
+    recommandation: 08.5/09.0 Aci-1N:E
+  model: banding.Species
+  pk: 6643
+- fields:
+    alternative: null
+    categorie: null
+    code: TACLIS
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: TACLIS_
+    id_taxon: '6627'
+    nom_scientifique: Tachybaptus ruficollis
+    nom_vernaculaire: Grèbe castagneux
+    position: Ta
+    recommandation: 07.0/10.0 Aci-1N:F
+  model: banding.Species
+  pk: 6627
+- fields:
+    alternative: null
+    categorie: null
+    code: PODAUR
+    commentaire: A ovaliser
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PODAUR_
+    id_taxon: '6642'
+    nom_scientifique: Podiceps auritus
+    nom_vernaculaire: Grèbe esclavon
+    position: Ta
+    recommandation: 08.5/09.0 Aci-1N:E
+  model: banding.Species
+  pk: 6642
+- fields:
+    alternative: null
+    categorie: null
+    code: PODCRI
+    commentaire: A ovaliser
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PODCRI_
+    id_taxon: '6641'
+    nom_scientifique: Podiceps cristatus
+    nom_vernaculaire: Grèbe huppé
+    position: Ta
+    recommandation: 13.0/10.0 Aci-1N:D
+  model: banding.Species
+  pk: 6641
+- fields:
+    alternative: null
+    categorie: null
+    code: PODGRI
+    commentaire: A ovaliser
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PODGRI_
+    id_taxon: '6640'
+    nom_scientifique: Podiceps grisegena
+    nom_vernaculaire: Grèbe jougris
+    position: Ta
+    recommandation: 11.0/10.0 Aci-1N:K
+  model: banding.Species
+  pk: 6640
+- fields:
+    alternative: null
+    categorie: null
+    code: CERRIS
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: CERRIS_
+    id_taxon: '15339'
+    nom_scientifique: Certhia familiaris
+    nom_vernaculaire: Grimpereau des bois
+    position: Ta
+    recommandation: 02.0/05.0 Alu-1N:R
+  model: banding.Species
+  pk: 15339
+- fields:
+    alternative: null
+    categorie: null
+    code: CERYLA
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: CERYLA_
+    id_taxon: '15341'
+    nom_scientifique: Certhia brachydactyla
+    nom_vernaculaire: Grimpereau des jardins
+    position: Ta
+    recommandation: 02.0/05.0 Alu-1N:R
+  model: banding.Species
+  pk: 15341
+- fields:
+    alternative: 05.0/07.0 Alu-1N:G Ta
+    categorie: null
+    code: TURVIS
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: TURVIS_
+    id_taxon: '14738'
+    nom_scientifique: Turdus viscivorus
+    nom_vernaculaire: Grive draine
+    position: Ta
+    recommandation: 04.2/07.0 Alu-1N:J
+  model: banding.Species
+  pk: 14738
+- fields:
+    alternative: null
+    categorie: null
+    code: TURPIL
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: TURPIL_
+    id_taxon: '14734'
+    nom_scientifique: Turdus pilaris
+    nom_vernaculaire: Grive litorne
+    position: Ta
+    recommandation: 04.2/07.0 Alu-1N:J
+  model: banding.Species
+  pk: 14734
+- fields:
+    alternative: null
+    categorie: null
+    code: TURILI
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: TURILI_
+    id_taxon: '14735'
+    nom_scientifique: Turdus iliacus
+    nom_vernaculaire: Grive mauvis
+    position: Ta
+    recommandation: 03.5/05.5 Alu-1N:L
+  model: banding.Species
+  pk: 14735
+- fields:
+    alternative: 04.2/07.0 Alu-1N:J Ta
+    categorie: null
+    code: TURPHI
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: TURPHI_
+    id_taxon: '14736'
+    nom_scientifique: Turdus philomelos
+    nom_vernaculaire: Grive musicienne
+    position: Ta
+    recommandation: 03.5/05.5 Alu-1N:L
+  model: banding.Species
+  pk: 14736
+- fields:
+    alternative: null
+    categorie: null
+    code: COCTES
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: COCTES_
+    id_taxon: '17680'
+    nom_scientifique: Coccothraustes coccothraustes
+    nom_vernaculaire: Gros-bec casse-noyaux
+    position: Ta
+    recommandation: 03.0/05.0 Aci-1N:S
+  model: banding.Species
+  pk: 17680
+- fields:
+    alternative: null
+    categorie: null
+    code: GRUGRU
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: GRUGRU_
+    id_taxon: '8356'
+    nom_scientifique: Grus grus
+    nom_vernaculaire: Grue cendrée
+    position: Ti
+    recommandation: 18.0/10.0 Alu-1N:C
+  model: banding.Species
+  pk: 8356
+- fields:
+    alternative: 04.0/04.0 Alu-1N:AX Ta
+    categorie: null
+    code: MERAPI
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: MERAPI_
+    id_taxon: '11043'
+    nom_scientifique: Merops apiaster
+    nom_vernaculaire: Guêpier d'Europe
+    position: Ta
+    recommandation: 04.0/05.0 Alu-1N:AX
+  model: banding.Species
+  pk: 11043
+- fields:
+    alternative: null
+    categorie: null
+    code: CHLLEU
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: CHLLEU_
+    id_taxon: '8804'
+    nom_scientifique: Chlidonias leucopterus
+    nom_vernaculaire: Guifette leucoptère
+    position: Ta
+    recommandation: 04.2/07.0 Aci-1N:M
+  model: banding.Species
+  pk: 8804
+- fields:
+    alternative: null
+    categorie: null
+    code: CHLDUS
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: CHLDUS_
+    id_taxon: '8803'
+    nom_scientifique: Chlidonias hybridus
+    nom_vernaculaire: Guifette moustac
+    position: Ta
+    recommandation: 04.2/07.0 Aci-1N:M
+  model: banding.Species
+  pk: 8803
+- fields:
+    alternative: null
+    categorie: null
+    code: CHLNIG
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: CHLNIG_
+    id_taxon: '8805'
+    nom_scientifique: Chlidonias niger
+    nom_vernaculaire: Guifette noire
+    position: Ti
+    recommandation: 03.0/05.0 Aci-1N:S
+  model: banding.Species
+  pk: 8805
+- fields:
+    alternative: null
+    categorie: null
+    code: CEPGRY
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: CEPGRY_
+    id_taxon: '8836'
+    nom_scientifique: Cepphus grylle
+    nom_vernaculaire: Guillemot à miroir
+    position: Ta
+    recommandation: 07.0/10.0 Aci-1N:F
+  model: banding.Species
+  pk: 8836
+- fields:
+    alternative: null
+    categorie: null
+    code: URILOM
+    commentaire: bague speciale triangulaire
+    date_mise_a_jour: '2024-10-15'
+    id_ref: URILOM_
+    id_taxon: '8830'
+    nom_scientifique: Uria lomvia
+    nom_vernaculaire: Guillemot de Brunnich
+    position: Ta
+    recommandation: 15.0/10.0 Aci-1N:D
+  model: banding.Species
+  pk: 8830
+- fields:
+    alternative: null
+    categorie: null
+    code: URIAAL
+    commentaire: bague speciale triangulaire
+    date_mise_a_jour: '2024-10-15'
+    id_ref: URIAAL_
+    id_taxon: '8829'
+    nom_scientifique: Uria aalge
+    nom_vernaculaire: Guillemot de Troïl
+    position: Ta
+    recommandation: 15.0/10.0 Aci-1N:D
+  model: banding.Species
+  pk: 8829
+- fields:
+    alternative: 28.0/34.0 Alu-1N:TZ-v Ta
+    categorie: null
+    code: GYPBAR
+    commentaire: A riveter OU bagues PP avec rivets
+    date_mise_a_jour: '2024-10-15'
+    id_ref: GYPBAR_
+    id_taxon: '7401'
+    nom_scientifique: Gypaetus barbatus
+    nom_vernaculaire: Gypaète barbu
+    position: Ta
+    recommandation: 26.0/20.0 Aci-1N:T
+  model: banding.Species
+  pk: 7401
+- fields:
+    alternative: null
+    categorie: null
+    code: CLAHYE
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: CLAHYE_
+    id_taxon: '7305'
+    nom_scientifique: Clangula hyemalis
+    nom_vernaculaire: Harelde boreale
+    position: Ta
+    recommandation: 08.5/09.0 Aci-1N:E
+  model: banding.Species
+  pk: 7305
+- fields:
+    alternative: null
+    categorie: null
+    code: MERMER
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: MERMER_
+    id_taxon: '7324'
+    nom_scientifique: Mergus merganser
+    nom_vernaculaire: Harle bièvre
+    position: Ta
+    recommandation: 13.0/10.0 Aci-1N:D
+  model: banding.Species
+  pk: 7324
+- fields:
+    alternative: null
+    categorie: null
+    code: MERSER
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: MERSER_
+    id_taxon: '7322'
+    nom_scientifique: Mergus serrator
+    nom_vernaculaire: Harle huppé
+    position: Ta
+    recommandation: 11.0/10.0 Aci-1N:K
+  model: banding.Species
+  pk: 7322
+- fields:
+    alternative: null
+    categorie: null
+    code: MERLUS
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: MERLUS_
+    id_taxon: '7317'
+    nom_scientifique: Mergellus albellus
+    nom_vernaculaire: Harle piette
+    position: Ta
+    recommandation: 08.5/09.0 Aci-1N:E
+  model: banding.Species
+  pk: 7317
+- fields:
+    alternative: null
+    categorie: null
+    code: ARDCIN
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: ARDCIN_
+    id_taxon: '6941'
+    nom_scientifique: Ardea cinerea
+    nom_vernaculaire: Héron cendré
+    position: Ti
+    recommandation: 15.0/10.0 Alu-1N:C
+  model: banding.Species
+  pk: 6941
+- fields:
+    alternative: null
+    categorie: null
+    code: BUBIBI
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: BUBIBI_
+    id_taxon: '6959'
+    nom_scientifique: Bubulcus ibis
+    nom_vernaculaire: Héron garde-boeufs
+    position: Ti
+    recommandation: 08.5/09.0 Alu-1N:E
+  model: banding.Species
+  pk: 6959
+- fields:
+    alternative: null
+    categorie: null
+    code: ARDPUR
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: ARDPUR_
+    id_taxon: '6951'
+    nom_scientifique: Ardea purpurea
+    nom_vernaculaire: Héron pourpré
+    position: Ti
+    recommandation: 13.0/10.0 Alu-1N:D
+  model: banding.Species
+  pk: 6951
+- fields:
+    alternative: null
+    categorie: null
+    code: ASIFLA
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: ASIFLA_
+    id_taxon: '10116'
+    nom_scientifique: Asio flammeus
+    nom_vernaculaire: Hibou des marais
+    position: Ta
+    recommandation: 11.0/10.0 Alu-1N:H
+  model: banding.Species
+  pk: 10116
+- fields:
+    alternative: null
+    categorie: null
+    code: ASIOTU
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: ASIOTU_
+    id_taxon: '10112'
+    nom_scientifique: Asio otus
+    nom_vernaculaire: Hibou moyen-duc
+    position: Ta
+    recommandation: 08.5/09.0 Alu-1N:E
+  model: banding.Species
+  pk: 10112
+- fields:
+    alternative: null
+    categorie: null
+    code: DELURB
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: DELURB_
+    id_taxon: '15645'
+    nom_scientifique: Delichon urbica
+    nom_vernaculaire: Hirondelle de fenêtre
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 15645
+- fields:
+    alternative: null
+    categorie: null
+    code: RIPRIP
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: RIPRIP_
+    id_taxon: '15597'
+    nom_scientifique: Riparia riparia
+    nom_vernaculaire: Hirondelle de rivage
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 15597
+- fields:
+    alternative: null
+    categorie: null
+    code: HIRRUP
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: HIRRUP_
+    id_taxon: '15606'
+    nom_scientifique: Ptyonoprogne rupestris
+    nom_vernaculaire: Hirondelle de rochers
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 15606
+- fields:
+    alternative: null
+    categorie: null
+    code: HIRDAU
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: HIRDAU_
+    id_taxon: '15629'
+    nom_scientifique: Hirundo daurica
+    nom_vernaculaire: Hirondelle rousseline
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 15629
+- fields:
+    alternative: null
+    categorie: null
+    code: HIRRUS
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: HIRRUS_
+    id_taxon: '15610'
+    nom_scientifique: Hirundo rustica
+    nom_vernaculaire: Hirondelle rustique
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 15610
+- fields:
+    alternative: null
+    categorie: null
+    code: HAEOST
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: HAEOST_
+    id_taxon: '8641'
+    nom_scientifique: Haematopus ostralegus
+    nom_vernaculaire: Huîtrier pie
+    position: Ti
+    recommandation: 08.5/09.0 Aci-1N:E
+  model: banding.Species
+  pk: 8641
+- fields:
+    alternative: null
+    categorie: null
+    code: UPUEPO
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: UPUEPO_
+    id_taxon: '11146'
+    nom_scientifique: Upupa epops
+    nom_vernaculaire: Huppe fasciée
+    position: Ta
+    recommandation: 04.2/07.0 Alu-1N:J
+  model: banding.Species
+  pk: 11146
+- fields:
+    alternative: null
+    categorie: null
+    code: HIPCAL
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: HIPCAL_
+    id_taxon: '16100'
+    nom_scientifique: Hippolais caligata
+    nom_vernaculaire: Hypolaïs bottée
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 16100
+- fields:
+    alternative: null
+    categorie: null
+    code: HIPOLI
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: HIPOLI_
+    id_taxon: '16103'
+    nom_scientifique: Hippolais olivetorum
+    nom_vernaculaire: Hypolaïs des oliviers
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 16103
+- fields:
+    alternative: null
+    categorie: null
+    code: HIPICT
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: HIPICT_
+    id_taxon: '16105'
+    nom_scientifique: Hippolais icterina
+    nom_vernaculaire: Hypolaïs ictérine
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 16105
+- fields:
+    alternative: null
+    categorie: null
+    code: HIPPAL
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: HIPPAL_
+    id_taxon: '16101'
+    nom_scientifique: Hippolais pallida
+    nom_vernaculaire: Hypolaïs pâle
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 16101
+- fields:
+    alternative: null
+    categorie: null
+    code: HIPPOL
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: HIPPOL_
+    id_taxon: '16104'
+    nom_scientifique: Hippolais polyglotta
+    nom_vernaculaire: Hypolaïs polyglotte
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 16104
+- fields:
+    alternative: null
+    categorie: null
+    code: GERERE
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: GERERE_
+    id_taxon: '7038'
+    nom_scientifique: Geronticus eremita
+    nom_vernaculaire: Ibis chauve
+    position: Ti
+    recommandation: 13.0/10.0 Aci-1N:D
+  model: banding.Species
+  pk: 7038
+- fields:
+    alternative: null
+    categorie: null
+    code: PLEFAL
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PLEFAL_
+    id_taxon: '7020'
+    nom_scientifique: Plegadis falcinellus
+    nom_vernaculaire: Ibis falcinelle
+    position: Ti
+    recommandation: 11.0/10.0 Aci-1N:K
+  model: banding.Species
+  pk: 7020
+- fields:
+    alternative: 13.0/10.0 Alu-1N:D Ti
+    categorie: null
+    code: THRAET
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: THRAET_
+    id_taxon: '7043'
+    nom_scientifique: Threskiornis aethiopicus
+    nom_vernaculaire: Ibis sacré
+    position: Ti
+    recommandation: 15.0/10.0 Alu-1N:C
+  model: banding.Species
+  pk: 7043
+- fields:
+    alternative: null
+    categorie: null
+    code: BOMGAR
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: BOMGAR_
+    id_taxon: '14571'
+    nom_scientifique: Bombycilla garrulus
+    nom_vernaculaire: Jaseur boréal
+    position: Ta
+    recommandation: 03.5/05.5 Alu-1N:L
+  model: banding.Species
+  pk: 14571
+- fields:
+    alternative: null
+    categorie: null
+    code: STELON
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: STELON_
+    id_taxon: '8708'
+    nom_scientifique: Stercorarius longicaudus
+    nom_vernaculaire: Labbe à longue queue
+    position: Ti
+    recommandation: 06.0/07.0 Aci-1N:YG
+  model: banding.Species
+  pk: 8708
+- fields:
+    alternative: null
+    categorie: null
+    code: STECUS
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: STECUS_
+    id_taxon: '8707'
+    nom_scientifique: Stercorarius parasiticus
+    nom_vernaculaire: Labbe parasite
+    position: Ti
+    recommandation: 07.0/10.0 Aci-1N:F
+  model: banding.Species
+  pk: 8707
+- fields:
+    alternative: null
+    categorie: null
+    code: STEPOM
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: STEPOM_
+    id_taxon: '8706'
+    nom_scientifique: Stercorarius pomarinus
+    nom_vernaculaire: Labbe pomarin
+    position: Ti
+    recommandation: 08.5/09.0 Aci-1N:E
+  model: banding.Species
+  pk: 8706
+- fields:
+    alternative: null
+    categorie: null
+    code: LAGMUT
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: LAGMUT_
+    id_taxon: '7893'
+    nom_scientifique: Lagopus mutus
+    nom_vernaculaire: Lagopède alpin
+    position: Ta
+    recommandation: 08.5/09.0 Alu-1N:E
+  model: banding.Species
+  pk: 7893
+- fields:
+    alternative: null
+    categorie: null
+    code: LEILUT
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: LEILUT_
+    id_taxon: '16641'
+    nom_scientifique: Leiothrix lutea
+    nom_vernaculaire: Léiothrix jaune
+    position: Ta
+    recommandation: 02.5/05.0 Alu-1N:V
+  model: banding.Species
+  pk: 16641
+- fields:
+    alternative: null
+    categorie: null
+    code: CARRIS
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: CARRIS_
+    id_taxon: '17616'
+    nom_scientifique: Carduelis flavirostris
+    nom_vernaculaire: Linotte à bec jaune
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 17616
+- fields:
+    alternative: null
+    categorie: null
+    code: CARINA
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: CARINA_
+    id_taxon: '17617'
+    nom_scientifique: Carduelis cannabina
+    nom_vernaculaire: Linotte mélodieuse
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 17617
+- fields:
+    alternative: null
+    categorie: null
+    code: LOCCER
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: LOCCER_
+    id_taxon: '16053'
+    nom_scientifique: Locustella certhiola
+    nom_vernaculaire: Locustelle de Pallas
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 16053
+- fields:
+    alternative: null
+    categorie: null
+    code: LOCFAS
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: LOCFAS_
+    id_taxon: '16058'
+    nom_scientifique: Locustella fasciolata
+    nom_vernaculaire: Locustelle fasciée
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 16058
+- fields:
+    alternative: null
+    categorie: null
+    code: LOCFLU
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: LOCFLU_
+    id_taxon: '16056'
+    nom_scientifique: Locustella fluviatilis
+    nom_vernaculaire: Locustelle fluviatile
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 16056
+- fields:
+    alternative: null
+    categorie: null
+    code: LOCLAN
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: LOCLAN_
+    id_taxon: '16051'
+    nom_scientifique: Locustella lanceolata
+    nom_vernaculaire: Locustelle lancéolée
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 16051
+- fields:
+    alternative: null
+    categorie: null
+    code: LOCLUS
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: LOCLUS_
+    id_taxon: '16057'
+    nom_scientifique: Locustella luscinioides
+    nom_vernaculaire: Locustelle luscinioïde
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 16057
+- fields:
+    alternative: null
+    categorie: null
+    code: LOCNAE
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: LOCNAE_
+    id_taxon: '16052'
+    nom_scientifique: Locustella naevia
+    nom_vernaculaire: Locustelle tachetée
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 16052
+- fields:
+    alternative: null
+    categorie: null
+    code: ORIORI
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: ORIORI_
+    id_taxon: '14094'
+    nom_scientifique: Oriolus oriolus
+    nom_vernaculaire: Loriot d'Europe
+    position: Ta
+    recommandation: 04.2/07.0 Alu-1N:J
+  model: banding.Species
+  pk: 14094
+- fields:
+    alternative: null
+    categorie: null
+    code: ACRMEL
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: ACRMEL_
+    id_taxon: '16061'
+    nom_scientifique: Acrocephalus melanopogon
+    nom_vernaculaire: Lusciniole à moustaches
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 16061
+- fields:
+    alternative: null
+    categorie: null
+    code: FRAARC
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: FRAARC_
+    id_taxon: '8859'
+    nom_scientifique: Fratercula arctica
+    nom_vernaculaire: Macareux moine
+    position: Ta
+    recommandation: 07.0/07.0 Aci-1N:F
+  model: banding.Species
+  pk: 8859
+- fields:
+    alternative: null
+    categorie: null
+    code: MELPER
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: MELPER_
+    id_taxon: '7309'
+    nom_scientifique: Melanitta perspicillata
+    nom_vernaculaire: Macreuse à front blanc
+    position: Ta
+    recommandation: 11.0/10.0 Aci-1N:K
+  model: banding.Species
+  pk: 7309
+- fields:
+    alternative: null
+    categorie: null
+    code: MELACA
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: MELACA_
+    id_taxon: '7310'
+    nom_scientifique: Melanitta fusca
+    nom_vernaculaire: Macreuse brune
+    position: Ta
+    recommandation: 13.0/10.0 Aci-1N:D
+  model: banding.Species
+  pk: 7310
+- fields:
+    alternative: null
+    categorie: null
+    code: MELARA
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: MELARA_
+    id_taxon: '7307'
+    nom_scientifique: Melanitta nigra
+    nom_vernaculaire: Macreuse noire
+    position: Ta
+    recommandation: 11.0/10.0 Aci-1N:K
+  model: banding.Species
+  pk: 7307
+- fields:
+    alternative: 04.0/05.0 Alu-1N:AX Ti
+    categorie: null
+    code: PORPUS
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PORPUS_
+    id_taxon: '8263'
+    nom_scientifique: Porzana pusilla
+    nom_vernaculaire: Marouette de Baillon
+    position: Ti
+    recommandation: 03.5/05.5 Alu-1N:L
+  model: banding.Species
+  pk: 8263
+- fields:
+    alternative: null
+    categorie: null
+    code: PORANA
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PORANA_
+    id_taxon: '8265'
+    nom_scientifique: Porzana porzana
+    nom_vernaculaire: Marouette ponctuée
+    position: Ti
+    recommandation: 05.0/07.0 Alu-1N:G
+  model: banding.Species
+  pk: 8265
+- fields:
+    alternative: 04.0/05.0 Alu-1N:AX Ti
+    categorie: null
+    code: PORPAR
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PORPAR_
+    id_taxon: '8262'
+    nom_scientifique: Porzana parva
+    nom_vernaculaire: Marouette poussin
+    position: Ti
+    recommandation: 03.5/05.5 Alu-1N:L
+  model: banding.Species
+  pk: 8262
+- fields:
+    alternative: null
+    categorie: null
+    code: TACMEL
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: TACMEL_
+    id_taxon: '10370'
+    nom_scientifique: Tachymarptis melba
+    nom_vernaculaire: Martinet à ventre blanc
+    position: Ta
+    recommandation: 05.0/07.0 Alu-1N:G
+  model: banding.Species
+  pk: 10370
+- fields:
+    alternative: null
+    categorie: null
+    code: APUCAF
+    commentaire: bague speciale à recouvrement
+    date_mise_a_jour: '2024-10-15'
+    id_ref: APUCAF_
+    id_taxon: '10389'
+    nom_scientifique: Apus caffer
+    nom_vernaculaire: Martinet cafre
+    position: Ta
+    recommandation: 04.0/04.0 Alu-1N:AX
+  model: banding.Species
+  pk: 10389
+- fields:
+    alternative: null
+    categorie: null
+    code: APUAFF
+    commentaire: bague speciale à recouvrement
+    date_mise_a_jour: '2024-10-15'
+    id_ref: APUAFF_
+    id_taxon: '10385'
+    nom_scientifique: Apus affinis
+    nom_vernaculaire: Martinet des maisons
+    position: Ta
+    recommandation: 04.0/04.0 Alu-1N:AX
+  model: banding.Species
+  pk: 10385
+- fields:
+    alternative: null
+    categorie: null
+    code: APUAPU
+    commentaire: bague speciale à recouvrement
+    date_mise_a_jour: '2024-10-15'
+    id_ref: APUAPU_
+    id_taxon: '10374'
+    nom_scientifique: Apus apus
+    nom_vernaculaire: Martinet noir
+    position: Ta
+    recommandation: 04.0/04.0 Alu-1N:AX
+  model: banding.Species
+  pk: 10374
+- fields:
+    alternative: null
+    categorie: null
+    code: APUPAL
+    commentaire: bague speciale à recouvrement
+    date_mise_a_jour: '2024-10-15'
+    id_ref: APUPAL_
+    id_taxon: '10377'
+    nom_scientifique: Apus pallidus
+    nom_vernaculaire: Martinet pâle
+    position: Ta
+    recommandation: 04.0/04.0 Alu-1N:AX
+  model: banding.Species
+  pk: 10377
+- fields:
+    alternative: null
+    categorie: null
+    code: ALCATT
+    commentaire: bague speciale à recouvrement
+    date_mise_a_jour: '2024-10-15'
+    id_ref: ALCATT_
+    id_taxon: '10877'
+    nom_scientifique: Alcedo atthis
+    nom_vernaculaire: Martin-pêcheur d'Europe
+    position: Ta
+    recommandation: 04.0/04.0 Alu-1N:AX
+  model: banding.Species
+  pk: 10877
+- fields:
+    alternative: null
+    categorie: null
+    code: ALLALL
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: ALLALL_
+    id_taxon: '8827'
+    nom_scientifique: Alle alle
+    nom_vernaculaire: Mergule nain
+    position: Ta
+    recommandation: 05.0/06.5 Aci-1N:G
+  model: banding.Species
+  pk: 8827
+- fields:
+    alternative: null
+    categorie: null
+    code: TURTOR
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: TURTOR_
+    id_taxon: '14720'
+    nom_scientifique: Turdus torquatus
+    nom_vernaculaire: Merle à plastron
+    position: Ta
+    recommandation: 04.2/07.0 Alu-1N:J
+  model: banding.Species
+  pk: 14720
+- fields:
+    alternative: null
+    categorie: null
+    code: TURMER
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: TURMER_
+    id_taxon: '14722'
+    nom_scientifique: Turdus merula
+    nom_vernaculaire: Merle noir
+    position: Ta
+    recommandation: 04.2/07.0 Alu-1N:J
+  model: banding.Species
+  pk: 14722
+- fields:
+    alternative: null
+    categorie: null
+    code: AEGCAU
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: AEGCAU_
+    id_taxon: '15543'
+    nom_scientifique: Aegithalos caudatus
+    nom_vernaculaire: Mésange à longue queue
+    position: Ta
+    recommandation: 02.0/05.0 Alu-1N:R
+  model: banding.Species
+  pk: 15543
+- fields:
+    alternative: null
+    categorie: null
+    code: PARCAE
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PARCAE_
+    id_taxon: '15528'
+    nom_scientifique: Cyanistes caeruleus
+    nom_vernaculaire: Mésange bleue
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 15528
+- fields:
+    alternative: null
+    categorie: null
+    code: PARNUS
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PARNUS_
+    id_taxon: '15487'
+    nom_scientifique: Poecile montanus
+    nom_vernaculaire: Mésange boréale
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 15487
+- fields:
+    alternative: 02.5/05.0 Alu-1N:V Ta
+    categorie: VOL
+    code: PARMAJ
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PARMAJ_VOL
+    id_taxon: '15521'
+    nom_scientifique: Parus major
+    nom_vernaculaire: Mésange charbonnière
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 15521
+- fields:
+    alternative: null
+    categorie: PUL
+    code: PARMAJ
+    commentaire: PUL au nid
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PARMAJ_PUL
+    id_taxon: '15521'
+    nom_scientifique: Parus major
+    nom_vernaculaire: Mésange charbonnière
+    position: Ta
+    recommandation: 02.5/05.0 Alu-1N:V
+  model: banding.Species
+  pk: 15521
+- fields:
+    alternative: null
+    categorie: null
+    code: PARCRI
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PARCRI_
+    id_taxon: '15504'
+    nom_scientifique: Lophophanes cristatus
+    nom_vernaculaire: Mésange huppée
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 15504
+- fields:
+    alternative: null
+    categorie: null
+    code: PARATE
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PARATE_
+    id_taxon: '15500'
+    nom_scientifique: Periparus ater
+    nom_vernaculaire: Mésange noire
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 15500
+- fields:
+    alternative: null
+    categorie: null
+    code: PAPALU
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PAPALU_
+    id_taxon: '15484'
+    nom_scientifique: Poecile palustris
+    nom_vernaculaire: Mésange nonnette
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 15484
+- fields:
+    alternative: null
+    categorie: null
+    code: MILMIG
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: MILMIG_
+    id_taxon: '7381'
+    nom_scientifique: Milvus migrans
+    nom_vernaculaire: Milan noir
+    position: Ta
+    recommandation: 11.0/10.0 Alu-1N:H
+  model: banding.Species
+  pk: 7381
+- fields:
+    alternative: 13.0/10.0 Alu-1N:D Ta
+    categorie: null
+    code: MILMIL
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: MILMIL_
+    id_taxon: '7380'
+    nom_scientifique: Milvus milvus
+    nom_vernaculaire: Milan royal
+    position: Ta
+    recommandation: 11.0/10.0 Alu-1N:H
+  model: banding.Species
+  pk: 7380
+- fields:
+    alternative: null
+    categorie: null
+    code: PASITA
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PASITA_
+    id_taxon: '17071'
+    nom_scientifique: Passer (domesticus) italiae
+    nom_vernaculaire: Moineau cisalpin
+    position: Ta
+    recommandation: 03.0/05.5 Alu-1N:S
+  model: banding.Species
+  pk: 17071
+- fields:
+    alternative: null
+    categorie: null
+    code: PASDOM
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PASDOM_
+    id_taxon: '17070'
+    nom_scientifique: Passer domesticus
+    nom_vernaculaire: Moineau domestique
+    position: Ta
+    recommandation: 03.0/05.5 Alu-1N:S
+  model: banding.Species
+  pk: 17070
+- fields:
+    alternative: null
+    categorie: null
+    code: PASHIS
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PASHIS_
+    id_taxon: '17072'
+    nom_scientifique: Passer hispaniolensis
+    nom_vernaculaire: Moineau espagnol
+    position: Ta
+    recommandation: 03.0/05.5 Alu-1N:S
+  model: banding.Species
+  pk: 17072
+- fields:
+    alternative: null
+    categorie: null
+    code: PASMON
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PASMON_
+    id_taxon: '17089'
+    nom_scientifique: Passer montanus
+    nom_vernaculaire: Moineau friquet
+    position: Ta
+    recommandation: 02.5/05.0 Alu-1N:V
+  model: banding.Species
+  pk: 17089
+- fields:
+    alternative: null
+    categorie: null
+    code: PETPET
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PETPET_
+    id_taxon: '17098'
+    nom_scientifique: Petronia petronia
+    nom_vernaculaire: Moineau soulcie
+    position: Ta
+    recommandation: 03.0/05.5 Alu-1N:S
+  model: banding.Species
+  pk: 17098
+- fields:
+    alternative: null
+    categorie: null
+    code: MONSOL
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: MONSOL_
+    id_taxon: '14606'
+    nom_scientifique: Monticola solitarius
+    nom_vernaculaire: Monticole bleu
+    position: Ta
+    recommandation: 03.5/05.5 Alu-1N:L
+  model: banding.Species
+  pk: 14606
+- fields:
+    alternative: null
+    categorie: null
+    code: MONSAX
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: MONSAX_
+    id_taxon: '14601'
+    nom_scientifique: Monticola saxatilis
+    nom_vernaculaire: Monticole de roche
+    position: Ta
+    recommandation: 03.5/05.5 Alu-1N:L
+  model: banding.Species
+  pk: 14601
+- fields:
+    alternative: null
+    categorie: null
+    code: XEMSAB
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: XEMSAB_
+    id_taxon: '8761'
+    nom_scientifique: Xema sabini
+    nom_vernaculaire: Mouette de Sabine
+    position: Ti
+    recommandation: 05.0/06.5 Aci-1N:G
+  model: banding.Species
+  pk: 8761
+- fields:
+    alternative: null
+    categorie: null
+    code: LARMEL
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: LARMEL_
+    id_taxon: '8750'
+    nom_scientifique: Ichthyaetus melanocephalus
+    nom_vernaculaire: Mouette mélanocéphale
+    position: Ti
+    recommandation: 07.0/10.0 Aci-1N:F
+  model: banding.Species
+  pk: 8750
+- fields:
+    alternative: null
+    categorie: null
+    code: LARMIN
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: LARMIN_
+    id_taxon: '8755'
+    nom_scientifique: Larus minutus
+    nom_vernaculaire: Mouette pygmée
+    position: Ti
+    recommandation: 04.2/07.0 Aci-1N:M
+  model: banding.Species
+  pk: 8755
+- fields:
+    alternative: null
+    categorie: null
+    code: LARRID
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: LARRID_
+    id_taxon: '8745'
+    nom_scientifique: Chroicocephalus ridibundus
+    nom_vernaculaire: Mouette rieuse
+    position: Ti
+    recommandation: 07.0/10.0 Aci-1N:F
+  model: banding.Species
+  pk: 8745
+- fields:
+    alternative: 07.0/07.0 Aci-1N:F Ta
+    categorie: null
+    code: RISTRI
+    commentaire: FX si bagues couleurs ajoutées (PP)
+    date_mise_a_jour: '2024-10-15'
+    id_ref: RISTRI_
+    id_taxon: '8765'
+    nom_scientifique: Rissa tridactyla
+    nom_vernaculaire: Mouette tridactyle
+    position: Ta
+    recommandation: 07.0/10.0 Aci-1N:F
+  model: banding.Species
+  pk: 8765
+- fields:
+    alternative: null
+    categorie: null
+    code: NETRUF
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: NETRUF_
+    id_taxon: '7278'
+    nom_scientifique: Netta rufina
+    nom_vernaculaire: Nette rousse
+    position: Ta
+    recommandation: 11.0/10.0 Aci-1N:K
+  model: banding.Species
+  pk: 7278
+- fields:
+    alternative: null
+    categorie: null
+    code: MONNIV
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: MONNIV_
+    id_taxon: '17102'
+    nom_scientifique: Montifringilla nivalis
+    nom_vernaculaire: Niverolle alpine
+    position: Ta
+    recommandation: 03.0/05.5 Alu-1N:S
+  model: banding.Species
+  pk: 17102
+- fields:
+    alternative: null
+    categorie: null
+    code: OCELEU
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: OCELEU_
+    id_taxon: '6818'
+    nom_scientifique: Oceanodroma leucorhoa
+    nom_vernaculaire: Océanite cul-blanc
+    position: Ti
+    recommandation: 03.0/05.0 Aci-1N:S
+  model: banding.Species
+  pk: 6818
+- fields:
+    alternative: null
+    categorie: null
+    code: OCEOCE
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: OCEOCE_
+    id_taxon: '6801'
+    nom_scientifique: Oceanites oceanicus
+    nom_vernaculaire: Océanite de Wilson
+    position: Ti
+    recommandation: 03.0/05.0 Aci-1N:S
+  model: banding.Species
+  pk: 6801
+- fields:
+    alternative: null
+    categorie: null
+    code: HYDPEL
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: HYDPEL_
+    id_taxon: '6813'
+    nom_scientifique: Hydrobates pelagicus
+    nom_vernaculaire: Océanite tempête
+    position: Ti
+    recommandation: 03.0/05.0 Aci-1N:S
+  model: banding.Species
+  pk: 6813
+- fields:
+    alternative: 07.0/10.0 Aci-1N:F Ta | 08.5/09.0 Aci-1N:E Ta
+    categorie: null
+    code: BUROED
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: BUROED_
+    id_taxon: '8552'
+    nom_scientifique: Burhinus oedicnemus
+    nom_vernaculaire: OEdicnème criard
+    position: Ti
+    recommandation: 08.5/09.0 Alu-1N:E
+  model: banding.Species
+  pk: 8552
+- fields:
+    alternative: null
+    categorie: null
+    code: ANSBRA
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: ANSBRA_
+    id_taxon: '7153'
+    nom_scientifique: Anser brachyrhynchus
+    nom_vernaculaire: Oie à bec court
+    position: Ta
+    recommandation: 16.0/12.0 Aci-1N:C
+  model: banding.Species
+  pk: 7153
+- fields:
+    alternative: null
+    categorie: null
+    code: ANSIND
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: ANSIND_
+    id_taxon: '7158'
+    nom_scientifique: Anser indicus
+    nom_vernaculaire: Oie à tête barrée
+    position: Ta
+    recommandation: 13.0/10.0 Aci-1N:D
+  model: banding.Species
+  pk: 7158
+- fields:
+    alternative: null
+    categorie: null
+    code: ANSANS
+    commentaire: C trop juste pour certains individus ?
+    date_mise_a_jour: '2024-10-15'
+    id_ref: ANSANS_
+    id_taxon: '7157'
+    nom_scientifique: Anser anser
+    nom_vernaculaire: Oie cendrée
+    position: Ta
+    recommandation: 16.0/12.0 Aci-1N:C
+  model: banding.Species
+  pk: 7157
+- fields:
+    alternative: null
+    categorie: null
+    code: ANSFAB
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: ANSFAB_
+    id_taxon: '7154'
+    nom_scientifique: Anser fabalis
+    nom_vernaculaire: Oie des moissons
+    position: Ta
+    recommandation: 16.0/12.0 Aci-1N:C
+  model: banding.Species
+  pk: 7154
+- fields:
+    alternative: null
+    categorie: null
+    code: ANSERY
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: ANSERY_
+    id_taxon: '7156'
+    nom_scientifique: Anser erythropus
+    nom_vernaculaire: Oie naine
+    position: Ta
+    recommandation: 13.0/10.0 Aci-1N:D
+  model: banding.Species
+  pk: 7156
+- fields:
+    alternative: null
+    categorie: null
+    code: ANSALB
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: ANSALB_
+    id_taxon: '7155'
+    nom_scientifique: Anser albifrons
+    nom_vernaculaire: Oie rieuse
+    position: Ta
+    recommandation: 16.0/12.0 Aci-1N:C
+  model: banding.Species
+  pk: 7155
+- fields:
+    alternative: null
+    categorie: null
+    code: ALOAEG
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: ALOAEG_
+    id_taxon: '7181'
+    nom_scientifique: Alopochen aegyptiacus
+    nom_vernaculaire: Ouette d'Égypte
+    position: Ta
+    recommandation: 16.0/12.0 Aci-1N:C
+  model: banding.Species
+  pk: 7181
+- fields:
+    alternative: 08.5/09.0 Aci-1N:E Ta
+    categorie: null
+    code: TETRAX
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: TETRAX_
+    id_taxon: '8373'
+    nom_scientifique: Tetrax tetrax
+    nom_vernaculaire: Outarde canepetière
+    position: Ti
+    recommandation: 08.5/09.0 Alu-1N:E
+  model: banding.Species
+  pk: 8373
+- fields:
+    alternative: null
+    categorie: null
+    code: PANBIA
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PANBIA_
+    id_taxon: '16723'
+    nom_scientifique: Panurus biarmicus
+    nom_vernaculaire: Panure à moustaches
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 16723
+- fields:
+    alternative: null
+    categorie: null
+    code: ALEGRA
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: ALEGRA_
+    id_taxon: '7926'
+    nom_scientifique: Alectoris graeca
+    nom_vernaculaire: Perdrix bartavelle
+    position: Ta
+    recommandation: 07.0/09.0 Alu-1N:F
+  model: banding.Species
+  pk: 7926
+- fields:
+    alternative: null
+    categorie: null
+    code: PERPER
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PERPER_
+    id_taxon: '7976'
+    nom_scientifique: Perdix perdix
+    nom_vernaculaire: Perdrix grise
+    position: Ta
+    recommandation: 07.0/09.0 Alu-1N:F
+  model: banding.Species
+  pk: 7976
+- fields:
+    alternative: 08.5/09.0 Alu-1N:E Ta
+    categorie: null
+    code: ALEUFA
+    commentaire: bague au dessus de l'ergot des mâles, ne pas baguer les jeunes
+    date_mise_a_jour: '2024-10-15'
+    id_ref: ALEUFA_
+    id_taxon: '7931'
+    nom_scientifique: Alectoris rufa
+    nom_vernaculaire: Perdrix rouge
+    position: Ta
+    recommandation: 07.0/09.0 Alu-1N:F
+  model: banding.Species
+  pk: 7931
+- fields:
+    alternative: null
+    categorie: null
+    code: PSIKRA
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PSIKRA_
+    id_taxon: '9491'
+    nom_scientifique: Psittacula krameri
+    nom_vernaculaire: Perruche à collier
+    position: Ta
+    recommandation: 07.0/07.0 Aci-1N:F
+  model: banding.Species
+  pk: 9491
+- fields:
+    alternative: null
+    categorie: null
+    code: OTUSCO
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: OTUSCO_
+    id_taxon: '9936'
+    nom_scientifique: Otus scops
+    nom_vernaculaire: Petit-duc scops
+    position: Ta
+    recommandation: 05.0/07.0 Alu-1N:G
+  model: banding.Species
+  pk: 9936
+- fields:
+    alternative: null
+    categorie: null
+    code: CHADUB
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: CHADUB_
+    id_taxon: '8572'
+    nom_scientifique: Charadrius dubius
+    nom_vernaculaire: Petit-gravelot
+    position: Ti
+    recommandation: 03.0/05.0 Aci-1N:S
+  model: banding.Species
+  pk: 8572
+- fields:
+    alternative: null
+    categorie: null
+    code: PHALOB
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PHALOB_
+    id_taxon: '8531'
+    nom_scientifique: Phalaropus lobatus
+    nom_vernaculaire: Phalarope à bec étroit
+    position: Ti
+    recommandation: 03.0/05.0 Aci-1N:S
+  model: banding.Species
+  pk: 8531
+- fields:
+    alternative: null
+    categorie: null
+    code: PHARIA
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PHARIA_
+    id_taxon: '8532'
+    nom_scientifique: Phalaropus fulicaria
+    nom_vernaculaire: Phalarope à bec large
+    position: Ti
+    recommandation: 03.0/05.0 Aci-1N:S
+  model: banding.Species
+  pk: 8532
+- fields:
+    alternative: null
+    categorie: null
+    code: ACROLA
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: ACROLA_
+    id_taxon: '16062'
+    nom_scientifique: Acrocephalus paludicola
+    nom_vernaculaire: Phragmite aquatique
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 16062
+- fields:
+    alternative: null
+    categorie: null
+    code: ACRSCH
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: ACRSCH_
+    id_taxon: '16063'
+    nom_scientifique: Acrocephalus schoenobaenus
+    nom_vernaculaire: Phragmite des joncs
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 16063
+- fields:
+    alternative: null
+    categorie: null
+    code: DENTOS
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: DENTOS_
+    id_taxon: '11524'
+    nom_scientifique: Dendrocopos leucotos
+    nom_vernaculaire: Pic à dos blanc
+    position: Ta
+    recommandation: 04.2/07.0 Alu-1N:J
+  model: banding.Species
+  pk: 11524
+- fields:
+    alternative: null
+    categorie: null
+    code: PICCAN
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PICCAN_
+    id_taxon: '11627'
+    nom_scientifique: Picus canus
+    nom_vernaculaire: Pic cendré
+    position: Ta
+    recommandation: 04.2/07.0 Alu-1N:J
+  model: banding.Species
+  pk: 11627
+- fields:
+    alternative: 06.0/07.0 Alu-1N:GY Ta
+    categorie: null
+    code: PICDISSHA
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PICDISSHA_
+    id_taxon: '18906'
+    nom_scientifique: Picus viridis sharpei
+    nom_vernaculaire: Pic de Sharpe
+    position: Ta
+    recommandation: 05.0/07.0 Alu-1N:G
+  model: banding.Species
+  pk: 18906
+- fields:
+    alternative: null
+    categorie: null
+    code: DENMAJ
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: DENMAJ_
+    id_taxon: '11525'
+    nom_scientifique: Dendrocopos major
+    nom_vernaculaire: Pic épeiche
+    position: Ta
+    recommandation: 04.2/07.0 Alu-1N:J
+  model: banding.Species
+  pk: 11525
+- fields:
+    alternative: 03.0/05.5 Alu-1N:S Ta
+    categorie: null
+    code: DENMIN
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: DENMIN_
+    id_taxon: '11514'
+    nom_scientifique: Dendrocopos minor
+    nom_vernaculaire: Pic épeichette
+    position: Ta
+    recommandation: 02.5/05.0 Alu-1N:V
+  model: banding.Species
+  pk: 11514
+- fields:
+    alternative: null
+    categorie: null
+    code: DENMED
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: DENMED_
+    id_taxon: '11523'
+    nom_scientifique: Dendrocopos medius
+    nom_vernaculaire: Pic mar
+    position: Ta
+    recommandation: 03.5/05.5 Alu-1N:L
+  model: banding.Species
+  pk: 11523
+- fields:
+    alternative: null
+    categorie: null
+    code: DRYMAR
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: DRYMAR_
+    id_taxon: '11599'
+    nom_scientifique: Dryocopus martius
+    nom_vernaculaire: Pic noir
+    position: Ta
+    recommandation: 07.0/09.0 Alu-1N:F
+  model: banding.Species
+  pk: 11599
+- fields:
+    alternative: null
+    categorie: null
+    code: DENSYR
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: DENSYR_
+    id_taxon: '11526'
+    nom_scientifique: Dendrocopos syriacus
+    nom_vernaculaire: Pic syriaque
+    position: Ta
+    recommandation: 04.2/07.0 Alu-1N:J
+  model: banding.Species
+  pk: 11526
+- fields:
+    alternative: null
+    categorie: null
+    code: PICTRI
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PICTRI_
+    id_taxon: '11540'
+    nom_scientifique: Picoides tridactylus
+    nom_vernaculaire: Pic tridactyle
+    position: Ta
+    recommandation: 03.5/05.5 Alu-1N:L
+  model: banding.Species
+  pk: 11540
+- fields:
+    alternative: 06.0/07.0 Alu-1N:GY Ta
+    categorie: null
+    code: PICDIS
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PICDIS_
+    id_taxon: '11623'
+    nom_scientifique: Picus viridis
+    nom_vernaculaire: Pic vert
+    position: Ta
+    recommandation: 05.0/07.0 Alu-1N:G
+  model: banding.Species
+  pk: 11623
+- fields:
+    alternative: 06.0/07.0 Alu-1N:GY Ta
+    categorie: null
+    code: PICDISVIR
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PICDISVIR_
+    id_taxon: '18907'
+    nom_scientifique: Picus viridis viridis
+    nom_vernaculaire: Pic vert ssp nominale
+    position: Ta
+    recommandation: 05.0/07.0 Alu-1N:G
+  model: banding.Species
+  pk: 18907
+- fields:
+    alternative: 07.0/09.0 Alu-1N:F Ta
+    categorie: null
+    code: PICPIC
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PICPIC_
+    id_taxon: '13921'
+    nom_scientifique: Pica pica
+    nom_vernaculaire: Pie bavarde
+    position: Ta
+    recommandation: 06.0/07.0 Alu-1N:GY
+  model: banding.Species
+  pk: 13921
+- fields:
+    alternative: null
+    categorie: null
+    code: LANMIN
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: LANMIN_
+    id_taxon: '13654'
+    nom_scientifique: Lanius minor
+    nom_vernaculaire: Pie-grièche à poitrine rose
+    position: Ta
+    recommandation: 03.5/05.5 Alu-1N:L
+  model: banding.Species
+  pk: 13654
+- fields:
+    alternative: null
+    categorie: null
+    code: LANSEN
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: LANSEN_
+    id_taxon: '13666'
+    nom_scientifique: Lanius senator
+    nom_vernaculaire: Pie-grièche à tête rousse
+    position: Ta
+    recommandation: 03.0/05.5 Alu-1N:S
+  model: banding.Species
+  pk: 13666
+- fields:
+    alternative: null
+    categorie: null
+    code: LANRIO
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: LANRIO_
+    id_taxon: '13644'
+    nom_scientifique: Lanius collurio
+    nom_vernaculaire: Pie-grièche écorcheur
+    position: Ta
+    recommandation: 03.0/05.5 Alu-1N:S
+  model: banding.Species
+  pk: 13644
+- fields:
+    alternative: null
+    categorie: null
+    code: LAITOR
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: LAITOR_
+    id_taxon: '13656'
+    nom_scientifique: Lanius excubitor
+    nom_vernaculaire: Pie-grièche grise
+    position: Ta
+    recommandation: 04.2/07.0 Alu-1N:J
+  model: banding.Species
+  pk: 13656
+- fields:
+    alternative: null
+    categorie: null
+    code: LANMER
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: LANMER_
+    id_taxon: '18892'
+    nom_scientifique: Lanius meridionalis
+    nom_vernaculaire: Pie-grièche méridionale
+    position: Ta
+    recommandation: 04.2/07.0 Alu-1N:J
+  model: banding.Species
+  pk: 18892
+- fields:
+    alternative: null
+    categorie: null
+    code: COLLIV
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: COLLIV_
+    id_taxon: '8891'
+    nom_scientifique: Columba livia
+    nom_vernaculaire: Pigeon biset
+    position: Ta
+    recommandation: 07.0/09.0 Alu-1N:F
+  model: banding.Species
+  pk: 8891
+- fields:
+    alternative: 08.5/09.0 Alu-1N:E Ta
+    categorie: null
+    code: COLLIVDOM
+    commentaire: E possible pour gros individus
+    date_mise_a_jour: '2024-10-15'
+    id_ref: COLLIVDOM_
+    id_taxon: '18911'
+    nom_scientifique: Columba livia domestica
+    nom_vernaculaire: Pigeon biset féral
+    position: Ta
+    recommandation: 07.0/09.0 Alu-1N:F
+  model: banding.Species
+  pk: 18911
+- fields:
+    alternative: null
+    categorie: null
+    code: COLNAS
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: COLNAS_
+    id_taxon: '8896'
+    nom_scientifique: Columba oenas
+    nom_vernaculaire: Pigeon colombin
+    position: Ta
+    recommandation: 07.0/09.0 Alu-1N:F
+  model: banding.Species
+  pk: 8896
+- fields:
+    alternative: null
+    categorie: null
+    code: COLBUS
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: COLBUS_
+    id_taxon: '8899'
+    nom_scientifique: Columba palumbus
+    nom_vernaculaire: Pigeon ramier
+    position: Ta
+    recommandation: 08.5/09.0 Alu-1N:E
+  model: banding.Species
+  pk: 8899
+- fields:
+    alternative: 08.5/09.0 Aci-1N:E Ta
+    categorie: null
+    code: ALCTOR
+    commentaire: bague speciale triangulaire 10x6,5
+    date_mise_a_jour: '2024-10-15'
+    id_ref: ALCTOR_
+    id_taxon: '8832'
+    nom_scientifique: Alca torda
+    nom_vernaculaire: Pingouin torda
+    position: Ta
+    recommandation: 10.0/10.0 Aci-1N:W
+  model: banding.Species
+  pk: 8832
+- fields:
+    alternative: null
+    categorie: null
+    code: FRICOE
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: FRICOE_
+    id_taxon: '17528'
+    nom_scientifique: Fringilla coelebs
+    nom_vernaculaire: Pinson des arbres
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 17528
+- fields:
+    alternative: null
+    categorie: null
+    code: FRIMON
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: FRIMON_
+    id_taxon: '17530'
+    nom_scientifique: Fringilla montifringilla
+    nom_vernaculaire: Pinson du Nord
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 17530
+- fields:
+    alternative: null
+    categorie: null
+    code: ANTHOD
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: ANTHOD_
+    id_taxon: '17161'
+    nom_scientifique: Anthus hodgsoni
+    nom_vernaculaire: Pipit à dos olive
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 17161
+- fields:
+    alternative: null
+    categorie: null
+    code: ANTRIC
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: ANTRIC_
+    id_taxon: '17143'
+    nom_scientifique: Anthus richardi
+    nom_vernaculaire: Pipit de Richard
+    position: Ta
+    recommandation: 03.0/05.5 Alu-1N:S
+  model: banding.Species
+  pk: 17143
+- fields:
+    alternative: null
+    categorie: null
+    code: ANTTRI
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: ANTTRI_
+    id_taxon: '17160'
+    nom_scientifique: Anthus trivialis
+    nom_vernaculaire: Pipit des arbres
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 17160
+- fields:
+    alternative: null
+    categorie: null
+    code: ANTPRA
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: ANTPRA_
+    id_taxon: '17163'
+    nom_scientifique: Anthus pratensis
+    nom_vernaculaire: Pipit farlouse
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 17163
+- fields:
+    alternative: null
+    categorie: null
+    code: ANTPET
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: ANTPET_
+    id_taxon: '17166'
+    nom_scientifique: Anthus petrosus
+    nom_vernaculaire: Pipit maritime
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 17166
+- fields:
+    alternative: null
+    categorie: null
+    code: ANTRIS
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: ANTRIS_
+    id_taxon: '17150'
+    nom_scientifique: Anthus campestris
+    nom_vernaculaire: Pipit rousseline
+    position: Ta
+    recommandation: 02.5/05.0 Alu-1N:V
+  model: banding.Species
+  pk: 17150
+- fields:
+    alternative: null
+    categorie: null
+    code: ANTSPI
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: ANTSPI_
+    id_taxon: '17167'
+    nom_scientifique: Anthus spinoletta
+    nom_vernaculaire: Pipit spioncelle
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 17167
+- fields:
+    alternative: null
+    categorie: null
+    code: GAVARC
+    commentaire: A ovaliser
+    date_mise_a_jour: '2024-10-15'
+    id_ref: GAVARC_
+    id_taxon: '6681'
+    nom_scientifique: Gavia arctica
+    nom_vernaculaire: Plongeon arctique
+    position: Ta
+    recommandation: 16.0/12.0 Aci-1N:C
+  model: banding.Species
+  pk: 6681
+- fields:
+    alternative: null
+    categorie: null
+    code: GAVSTE
+    commentaire: A ovaliser
+    date_mise_a_jour: '2024-10-15'
+    id_ref: GAVSTE_
+    id_taxon: '6680'
+    nom_scientifique: Gavia stellata
+    nom_vernaculaire: Plongeon catmarin
+    position: Ta
+    recommandation: 16.0/12.0 Aci-1N:C
+  model: banding.Species
+  pk: 6680
+- fields:
+    alternative: null
+    categorie: null
+    code: GAVIMM
+    commentaire: A ovaliser
+    date_mise_a_jour: '2024-10-15'
+    id_ref: GAVIMM_
+    id_taxon: '6683'
+    nom_scientifique: Gavia immer
+    nom_vernaculaire: Plongeon imbrin
+    position: Ta
+    recommandation: 22.0/12.0 Aci-1N:B
+  model: banding.Species
+  pk: 6683
+- fields:
+    alternative: null
+    categorie: null
+    code: PLUSQU
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PLUSQU_
+    id_taxon: '8566'
+    nom_scientifique: Pluvialis squatarola
+    nom_vernaculaire: Pluvier argenté
+    position: Ti
+    recommandation: 05.0/06.5 Aci-1N:G
+  model: banding.Species
+  pk: 8566
+- fields:
+    alternative: null
+    categorie: null
+    code: PLUAPR
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PLUAPR_
+    id_taxon: '8563'
+    nom_scientifique: Pluvialis apricaria
+    nom_vernaculaire: Pluvier doré
+    position: Ti
+    recommandation: 05.0/07.0 Alu-1N:G
+  model: banding.Species
+  pk: 8563
+- fields:
+    alternative: null
+    categorie: null
+    code: CHAMOR
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: CHAMOR_
+    id_taxon: '8603'
+    nom_scientifique: Eudromias morinellus
+    nom_vernaculaire: Pluvier guignard
+    position: Ti
+    recommandation: 04.2/07.0 Alu-1N:J
+  model: banding.Species
+  pk: 8603
+- fields:
+    alternative: null
+    categorie: null
+    code: PHYINO
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PHYINO_
+    id_taxon: '16343'
+    nom_scientifique: Phylloscopus inornatus
+    nom_vernaculaire: Pouillot à grands sourcils
+    position: Ta
+    recommandation: 02.0/05.0 Alu-1N:R
+  model: banding.Species
+  pk: 16343
+- fields:
+    alternative: null
+    categorie: null
+    code: PHYBOR
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PHYBOR_
+    id_taxon: '16344'
+    nom_scientifique: Phylloscopus borealis
+    nom_vernaculaire: Pouillot boréal
+    position: Ta
+    recommandation: 02.0/05.0 Alu-1N:R
+  model: banding.Species
+  pk: 16344
+- fields:
+    alternative: null
+    categorie: null
+    code: PHYFUS
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PHYFUS_
+    id_taxon: '16332'
+    nom_scientifique: Phylloscopus fuscatus
+    nom_vernaculaire: Pouillot brun
+    position: Ta
+    recommandation: 02.0/05.0 Alu-1N:R
+  model: banding.Species
+  pk: 16332
+- fields:
+    alternative: null
+    categorie: null
+    code: PHYBON
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PHYBON_
+    id_taxon: '16330'
+    nom_scientifique: Phylloscopus bonelli
+    nom_vernaculaire: Pouillot de Bonelli
+    position: Ta
+    recommandation: 02.0/05.0 Alu-1N:R
+  model: banding.Species
+  pk: 16330
+- fields:
+    alternative: null
+    categorie: null
+    code: PHYPRO
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PHYPRO_
+    id_taxon: '16341'
+    nom_scientifique: Phylloscopus proregulus
+    nom_vernaculaire: Pouillot de Pallas
+    position: Ta
+    recommandation: 02.0/05.0 Alu-1N:R
+  model: banding.Species
+  pk: 16341
+- fields:
+    alternative: null
+    categorie: null
+    code: PHYSCH
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PHYSCH_
+    id_taxon: '16338'
+    nom_scientifique: Phylloscopus schwarzi
+    nom_vernaculaire: Pouillot de Schwarz
+    position: Ta
+    recommandation: 02.0/05.0 Alu-1N:R
+  model: banding.Species
+  pk: 16338
+- fields:
+    alternative: null
+    categorie: null
+    code: PHYLUS
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PHYLUS_
+    id_taxon: '16326'
+    nom_scientifique: Phylloscopus trochilus
+    nom_vernaculaire: Pouillot fitis
+    position: Ta
+    recommandation: 02.0/05.0 Alu-1N:R
+  model: banding.Species
+  pk: 16326
+- fields:
+    alternative: null
+    categorie: null
+    code: PHYSIB
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PHYSIB_
+    id_taxon: '16331'
+    nom_scientifique: Phylloscopus sibilatrix
+    nom_vernaculaire: Pouillot siffleur
+    position: Ta
+    recommandation: 02.0/05.0 Alu-1N:R
+  model: banding.Species
+  pk: 16331
+- fields:
+    alternative: null
+    categorie: null
+    code: PHYCOL
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PHYCOL_
+    id_taxon: '16327'
+    nom_scientifique: Phylloscopus collybita
+    nom_vernaculaire: Pouillot véloce
+    position: Ta
+    recommandation: 02.0/05.0 Alu-1N:R
+  model: banding.Species
+  pk: 16327
+- fields:
+    alternative: null
+    categorie: null
+    code: PHYDES
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PHYDES_
+    id_taxon: '16345'
+    nom_scientifique: Phylloscopus trochiloides
+    nom_vernaculaire: Pouillot verdâtre
+    position: Ta
+    recommandation: 02.0/05.0 Alu-1N:R
+  model: banding.Species
+  pk: 16345
+- fields:
+    alternative: null
+    categorie: null
+    code: CALDIO
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: CALDIO_
+    id_taxon: '6775'
+    nom_scientifique: Calonectris diomedea
+    nom_vernaculaire: Puffin cendré
+    position: Ta
+    recommandation: 08.5/09.0 Aci-1N:E
+  model: banding.Species
+  pk: 6775
+- fields:
+    alternative: null
+    categorie: null
+    code: PUFPUF
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PUFPUF_
+    id_taxon: '6786'
+    nom_scientifique: Puffinus puffinus
+    nom_vernaculaire: Puffin des Anglais
+    position: Ta
+    recommandation: 07.0/10.0 Aci-1N:F
+  model: banding.Species
+  pk: 6786
+- fields:
+    alternative: null
+    categorie: null
+    code: PUFMAU
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PUFMAU_
+    id_taxon: '6788'
+    nom_scientifique: Puffinus (yelkouan) mauretanicus
+    nom_vernaculaire: Puffin des Baléares
+    position: Ta
+    recommandation: 07.0/10.0 Aci-1N:F
+  model: banding.Species
+  pk: 6788
+- fields:
+    alternative: null
+    categorie: null
+    code: PUFGRI
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PUFGRI_
+    id_taxon: '6783'
+    nom_scientifique: Puffinus griseus
+    nom_vernaculaire: Puffin fuligineux
+    position: Ta
+    recommandation: 08.5/09.0 Aci-1N:E
+  model: banding.Species
+  pk: 6783
+- fields:
+    alternative: null
+    categorie: null
+    code: PUFGRA
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PUFGRA_
+    id_taxon: '6782'
+    nom_scientifique: Puffinus gravis
+    nom_vernaculaire: Puffin majeur
+    position: Ta
+    recommandation: 08.5/09.0 Aci-1N:E
+  model: banding.Species
+  pk: 6782
+- fields:
+    alternative: null
+    categorie: null
+    code: PUFYEL
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PUFYEL_
+    id_taxon: '6787'
+    nom_scientifique: Puffinus yelkouan
+    nom_vernaculaire: Puffin yelkouan
+    position: Ta
+    recommandation: 07.0/10.0 Aci-1N:F
+  model: banding.Species
+  pk: 6787
+- fields:
+    alternative: 28.0/34.0 Alu-1N:TZ-v Ta
+    categorie: null
+    code: HALLLA
+    commentaire: A riveter OU bagues PP avec rivets
+    date_mise_a_jour: '2024-10-15'
+    id_ref: HALLLA_
+    id_taxon: '7392'
+    nom_scientifique: Haliaeetus albicilla
+    nom_vernaculaire: Pygargue à queue blanche
+    position: Ta
+    recommandation: 26.0/20.0 Aci-1N:T
+  model: banding.Species
+  pk: 7392
+- fields:
+    alternative: null
+    categorie: null
+    code: RALAQU
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: RALAQU_
+    id_taxon: '8220'
+    nom_scientifique: Rallus aquaticus
+    nom_vernaculaire: Râle d'eau
+    position: Ti
+    recommandation: 05.0/07.0 Alu-1N:G
+  model: banding.Species
+  pk: 8220
+- fields:
+    alternative: null
+    categorie: null
+    code: CRECRE
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: CRECRE_
+    id_taxon: '8232'
+    nom_scientifique: Crex crex
+    nom_vernaculaire: Râle des genêts
+    position: Ta
+    recommandation: 06.0/07.0 Alu-1N:GY
+  model: banding.Species
+  pk: 8232
+- fields:
+    alternative: null
+    categorie: null
+    code: REMPEN
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: REMPEN_
+    id_taxon: '15467'
+    nom_scientifique: Remiz pendulinus
+    nom_vernaculaire: Rémiz penduline
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 15467
+- fields:
+    alternative: null
+    categorie: null
+    code: TARCYA
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: TARCYA_
+    id_taxon: '14963'
+    nom_scientifique: Tarsiger cyanurus
+    nom_vernaculaire: Robin à flancs roux
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 14963
+- fields:
+    alternative: null
+    categorie: null
+    code: REGREG
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: REGREG_
+    id_taxon: '15665'
+    nom_scientifique: Regulus regulus
+    nom_vernaculaire: Roitelet huppé
+    position: Ta
+    recommandation: 02.0/05.0 Alu-1N:R
+  model: banding.Species
+  pk: 15665
+- fields:
+    alternative: null
+    categorie: null
+    code: REGIGN
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: REGIGN_
+    id_taxon: '15668'
+    nom_scientifique: Regulus ignicapillus
+    nom_vernaculaire: Roitelet triple-bandeau
+    position: Ta
+    recommandation: 02.0/05.0 Alu-1N:R
+  model: banding.Species
+  pk: 15668
+- fields:
+    alternative: null
+    categorie: null
+    code: CORGAR
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: CORGAR_
+    id_taxon: '11050'
+    nom_scientifique: Coracias garrulus
+    nom_vernaculaire: Rollier d'Europe
+    position: Ta
+    recommandation: 06.0/07.0 Alu-1N:GY
+  model: banding.Species
+  pk: 11050
+- fields:
+    alternative: null
+    categorie: null
+    code: CARERY
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: CARERY_
+    id_taxon: '17639'
+    nom_scientifique: Carpodacus erythrinus
+    nom_vernaculaire: Roselin cramoisi
+    position: Ta
+    recommandation: 02.5/05.0 Alu-1N:V
+  model: banding.Species
+  pk: 17639
+- fields:
+    alternative: null
+    categorie: null
+    code: LUSMEG
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: LUSMEG_
+    id_taxon: '14953'
+    nom_scientifique: Luscinia megarhynchos
+    nom_vernaculaire: Rossignol philomèle
+    position: Ta
+    recommandation: 02.5/05.0 Alu-1N:V
+  model: banding.Species
+  pk: 14953
+- fields:
+    alternative: null
+    categorie: null
+    code: LUSLUS
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: LUSLUS_
+    id_taxon: '14952'
+    nom_scientifique: Luscinia luscinia
+    nom_vernaculaire: Rossignol progné
+    position: Ta
+    recommandation: 02.5/05.0 Alu-1N:V
+  model: banding.Species
+  pk: 14952
+- fields:
+    alternative: null
+    categorie: null
+    code: ERIRUB
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: ERIRUB_
+    id_taxon: '14947'
+    nom_scientifique: Erithacus rubecula
+    nom_vernaculaire: Rougegorge familier
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 14947
+- fields:
+    alternative: null
+    categorie: null
+    code: PHOPHO
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PHOPHO_
+    id_taxon: '15024'
+    nom_scientifique: Phoenicurus phoenicurus
+    nom_vernaculaire: Rougequeue à front blanc
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 15024
+- fields:
+    alternative: null
+    categorie: null
+    code: PHOOCH
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PHOOCH_
+    id_taxon: '15023'
+    nom_scientifique: Phoenicurus ochruros
+    nom_vernaculaire: Rougequeue noir
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 15023
+- fields:
+    alternative: null
+    categorie: null
+    code: ACRDUM
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: ACRDUM_
+    id_taxon: '16072'
+    nom_scientifique: Acrocephalus dumetorum
+    nom_vernaculaire: Rousserolle des buissons
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 16072
+- fields:
+    alternative: null
+    categorie: null
+    code: ACRSCI
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: ACRSCI_
+    id_taxon: '16069'
+    nom_scientifique: Acrocephalus scirpaceus
+    nom_vernaculaire: Rousserolle effarvatte
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 16069
+- fields:
+    alternative: null
+    categorie: null
+    code: ACRAGR
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: ACRAGR_
+    id_taxon: '16067'
+    nom_scientifique: Acrocephalus agricola
+    nom_vernaculaire: Rousserolle isabelle
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 16067
+- fields:
+    alternative: null
+    categorie: null
+    code: ACRARU
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: ACRARU_
+    id_taxon: '16074'
+    nom_scientifique: Acrocephalus arundinaceus
+    nom_vernaculaire: Rousserolle turdoïde
+    position: Ta
+    recommandation: 03.0/05.5 Alu-1N:S
+  model: banding.Species
+  pk: 16074
+- fields:
+    alternative: null
+    categorie: null
+    code: ACRRIS
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: ACRRIS_
+    id_taxon: '16073'
+    nom_scientifique: Acrocephalus palustris
+    nom_vernaculaire: Rousserolle verderolle
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 16073
+- fields:
+    alternative: null
+    categorie: null
+    code: ANAQUE
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: ANAQUE_
+    id_taxon: '7264'
+    nom_scientifique: Anas querquedula
+    nom_vernaculaire: Sarcelle d'été
+    position: Ta
+    recommandation: 07.0/10.0 Aci-1N:F
+  model: banding.Species
+  pk: 7264
+- fields:
+    alternative: null
+    categorie: null
+    code: ANACRE
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: ANACRE_
+    id_taxon: '1010'
+    nom_scientifique: Anas crecca
+    nom_vernaculaire: Sarcelle d'hiver
+    position: Ta
+    recommandation: 07.0/10.0 Aci-1N:F
+  model: banding.Species
+  pk: 1010
+- fields:
+    alternative: null
+    categorie: null
+    code: MARANG
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: MARANG_
+    id_taxon: '7274'
+    nom_scientifique: Marmaronetta angustirostris
+    nom_vernaculaire: Sarcelle marbrée
+    position: Ta
+    recommandation: 08.5/09.0 Aci-1N:E
+  model: banding.Species
+  pk: 7274
+- fields:
+    alternative: null
+    categorie: null
+    code: SERSER
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: SERSER_
+    id_taxon: '17534'
+    nom_scientifique: Serinus serinus
+    nom_vernaculaire: Serin cini
+    position: Ta
+    recommandation: 02.0/05.0 Alu-1N:R
+  model: banding.Species
+  pk: 17534
+- fields:
+    alternative: null
+    categorie: null
+    code: SITWHI
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: SITWHI_
+    id_taxon: '15318'
+    nom_scientifique: Sitta whiteheadi
+    nom_vernaculaire: Sittelle corse
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 15318
+- fields:
+    alternative: null
+    categorie: null
+    code: SITEUR
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: SITEUR_
+    id_taxon: '15310'
+    nom_scientifique: Sitta europaea
+    nom_vernaculaire: Sittelle torchepot
+    position: Ta
+    recommandation: 02.5/05.0 Alu-1N:V
+  model: banding.Species
+  pk: 15310
+- fields:
+    alternative: 02.0/05.0 Alu-1N:R Ta
+    categorie: null
+    code: CARMEA
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: CARMEA_
+    id_taxon: '17615'
+    nom_scientifique: Carduelis flammea
+    nom_vernaculaire: Sizerin ""flammé""
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 17615
+- fields:
+    alternative: null
+    categorie: null
+    code: CARHOR
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: CARHOR_
+    id_taxon: '17614'
+    nom_scientifique: Carduelis hornemanni
+    nom_vernaculaire: Sizerin blanchâtre
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 17614
+- fields:
+    alternative: null
+    categorie: null
+    code: CARMEAFLA
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: CARMEAFLA_
+    id_taxon: '18810'
+    nom_scientifique: Carduelis flammea flammea
+    nom_vernaculaire: Sizerin boréal
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 18810
+- fields:
+    alternative: null
+    categorie: null
+    code: CARMEACAB
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: CARMEACAB_
+    id_taxon: '18809'
+    nom_scientifique: Carduelis flammea cabaret
+    nom_vernaculaire: Sizerin cabaret
+    position: Ta
+    recommandation: 02.0/05.0 Alu-1N:R
+  model: banding.Species
+  pk: 18809
+- fields:
+    alternative: null
+    categorie: null
+    code: PLADIA
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PLADIA_
+    id_taxon: '7055'
+    nom_scientifique: Platalea leucorodia
+    nom_vernaculaire: Spatule blanche
+    position: Ti
+    recommandation: 16.0/12.0 Aci-1N:C
+  model: banding.Species
+  pk: 7055
+- fields:
+    alternative: null
+    categorie: null
+    code: STEAEA
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: STEAEA_
+    id_taxon: '8783'
+    nom_scientifique: Sterna paradisaea
+    nom_vernaculaire: Sterne arctique
+    position: Ti
+    recommandation: 04.2/07.0 Aci-1N:M
+  model: banding.Species
+  pk: 8783
+- fields:
+    alternative: null
+    categorie: null
+    code: STECAS
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: STECAS_
+    id_taxon: '8769'
+    nom_scientifique: Sterna caspia
+    nom_vernaculaire: Sterne caspienne
+    position: Ti
+    recommandation: 08.5/09.0 Aci-1N:E
+  model: banding.Species
+  pk: 8769
+- fields:
+    alternative: null
+    categorie: null
+    code: STESAN
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: STESAN_
+    id_taxon: '8776'
+    nom_scientifique: Sterna sandvicensis
+    nom_vernaculaire: Sterne caugek
+    position: Ti
+    recommandation: 05.0/06.5 Aci-1N:G
+  model: banding.Species
+  pk: 8776
+- fields:
+    alternative: null
+    categorie: null
+    code: STEDOU
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: STEDOU_
+    id_taxon: '8778'
+    nom_scientifique: Sterna dougallii
+    nom_vernaculaire: Sterne de Dougall
+    position: Ti
+    recommandation: 04.2/07.0 Aci-1N:M
+  model: banding.Species
+  pk: 8778
+- fields:
+    alternative: null
+    categorie: null
+    code: STEELE
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: STEELE_
+    id_taxon: '8772'
+    nom_scientifique: Sterna elegans
+    nom_vernaculaire: Sterne élégante
+    position: Ti
+    recommandation: 05.0/06.5 Aci-1N:G
+  model: banding.Species
+  pk: 8772
+- fields:
+    alternative: null
+    categorie: null
+    code: GELNIL
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: GELNIL_
+    id_taxon: '8768'
+    nom_scientifique: Gelochelidon nilotica
+    nom_vernaculaire: Sterne hansel
+    position: Ti
+    recommandation: 05.0/06.5 Aci-1N:G
+  model: banding.Species
+  pk: 8768
+- fields:
+    alternative: null
+    categorie: null
+    code: STEALB
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: STEALB_
+    id_taxon: '8788'
+    nom_scientifique: Sterna albifrons
+    nom_vernaculaire: Sterne naine
+    position: Ti
+    recommandation: 03.0/05.0 Aci-1N:S
+  model: banding.Species
+  pk: 8788
+- fields:
+    alternative: null
+    categorie: null
+    code: STENDO
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: STENDO_
+    id_taxon: '8782'
+    nom_scientifique: Sterna hirundo
+    nom_vernaculaire: Sterne pierregarin
+    position: Ti
+    recommandation: 04.2/07.0 Aci-1N:M
+  model: banding.Species
+  pk: 8782
+- fields:
+    alternative: null
+    categorie: null
+    code: STEBEN
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: STEBEN_
+    id_taxon: '8773'
+    nom_scientifique: Sterna bengalensis
+    nom_vernaculaire: Sterne voyageuse
+    position: Ti
+    recommandation: 05.0/06.5 Aci-1N:G
+  model: banding.Species
+  pk: 8773
+- fields:
+    alternative: 13.0/10.0 Aci-1N:D Ta
+    categorie: null
+    code: TADFER
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: TADFER_
+    id_taxon: '7183'
+    nom_scientifique: Tadorna ferruginea
+    nom_vernaculaire: Tadorne casarca
+    position: Ta
+    recommandation: 11.0/10.0 Aci-1N:K
+  model: banding.Species
+  pk: 7183
+- fields:
+    alternative: 13.0/10.0 Aci-1N:D Ta
+    categorie: null
+    code: TADRNA
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: TADRNA_
+    id_taxon: '7188'
+    nom_scientifique: Tadorna tadorna
+    nom_vernaculaire: Tadorne de Belon
+    position: Ta
+    recommandation: 11.0/10.0 Aci-1N:K
+  model: banding.Species
+  pk: 7188
+- fields:
+    alternative: null
+    categorie: null
+    code: PORRIO
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: PORRIO_
+    id_taxon: '8298'
+    nom_scientifique: Porphyrio porphyrio
+    nom_vernaculaire: Talève sultane
+    position: Ti
+    recommandation: 11.0/10.0 Aci-1N:K
+  model: banding.Species
+  pk: 8298
+- fields:
+    alternative: null
+    categorie: null
+    code: SAXRUB
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: SAXRUB_
+    id_taxon: '15058'
+    nom_scientifique: Saxicola rubetra
+    nom_vernaculaire: Tarier des prés
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 15058
+- fields:
+    alternative: null
+    categorie: null
+    code: SAXTOR
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: SAXTOR_
+    id_taxon: '15062'
+    nom_scientifique: Saxicola torquata
+    nom_vernaculaire: Tarier pâtre
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 15062
+- fields:
+    alternative: null
+    categorie: null
+    code: CARNUS
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: CARNUS_
+    id_taxon: '17593'
+    nom_scientifique: Carduelis spinus
+    nom_vernaculaire: Tarin des aulnes
+    position: Ta
+    recommandation: 02.0/05.0 Alu-1N:R
+  model: banding.Species
+  pk: 17593
+- fields:
+    alternative: null
+    categorie: M
+    code: TETRIX
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: TETRIX_M
+    id_taxon: '7896'
+    nom_scientifique: Tetrao tetrix
+    nom_vernaculaire: Tétras lyre
+    position: Ta
+    recommandation: 13.0/10.0 Alu-1N:D
+  model: banding.Species
+  pk: 7896
+- fields:
+    alternative: null
+    categorie: F
+    code: TETRIX
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: TETRIX_F
+    id_taxon: '7896'
+    nom_scientifique: Tetrao tetrix
+    nom_vernaculaire: Tétras lyre
+    position: Ta
+    recommandation: 11.0/10.0 Alu-1N:H
+  model: banding.Species
+  pk: 7896
+- fields:
+    alternative: null
+    categorie: null
+    code: TICMUR
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: TICMUR_
+    id_taxon: '15336'
+    nom_scientifique: Tichodroma muraria
+    nom_vernaculaire: Tichodrome échelette
+    position: Ta
+    recommandation: 02.3/05.0 Alu-1N:0
+  model: banding.Species
+  pk: 15336
+- fields:
+    alternative: null
+    categorie: null
+    code: JYNTOR
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: JYNTOR_
+    id_taxon: '11408'
+    nom_scientifique: Jynx torquilla
+    nom_vernaculaire: Torcol fourmilier
+    position: Ta
+    recommandation: 03.0/05.5 Alu-1N:S
+  model: banding.Species
+  pk: 11408
+- fields:
+    alternative: null
+    categorie: null
+    code: AREINT
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: AREINT_
+    id_taxon: '8491'
+    nom_scientifique: Arenaria interpres
+    nom_vernaculaire: Tournepierre à collier
+    position: Ti
+    recommandation: 04.2/07.0 Aci-1N:M
+  model: banding.Species
+  pk: 8491
+- fields:
+    alternative: null
+    categorie: null
+    code: STRTUR
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: STRTUR_
+    id_taxon: '8946'
+    nom_scientifique: Streptopelia turtur
+    nom_vernaculaire: Tourterelle des bois
+    position: Ta
+    recommandation: 06.0/07.0 Alu-1N:GY
+  model: banding.Species
+  pk: 8946
+- fields:
+    alternative: null
+    categorie: null
+    code: STRSEN
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: STRSEN_
+    id_taxon: '8950'
+    nom_scientifique: Streptopelia senegalensis
+    nom_vernaculaire: Tourterelle maillée
+    position: Ta
+    recommandation: 06.0/07.0 Alu-1N:GY
+  model: banding.Species
+  pk: 8950
+- fields:
+    alternative: null
+    categorie: null
+    code: STRORI
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: STRORI_
+    id_taxon: '8949'
+    nom_scientifique: Streptopelia orientalis
+    nom_vernaculaire: Tourterelle orientale
+    position: Ta
+    recommandation: 06.0/07.0 Alu-1N:GY
+  model: banding.Species
+  pk: 8949
+- fields:
+    alternative: 07.0/09.0 Alu-1N:F Ta
+    categorie: null
+    code: STRCTO
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: STRCTO_
+    id_taxon: '8957'
+    nom_scientifique: Streptopelia decaocto
+    nom_vernaculaire: Tourterelle turque
+    position: Ta
+    recommandation: 06.0/07.0 Alu-1N:GY
+  model: banding.Species
+  pk: 8957
+- fields:
+    alternative: null
+    categorie: null
+    code: OENISA
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: OENISA_
+    id_taxon: '15091'
+    nom_scientifique: Oenanthe isabellina
+    nom_vernaculaire: Traquet isabelle
+    position: Ta
+    recommandation: 02.5/05.0 Alu-1N:V
+  model: banding.Species
+  pk: 15091
+- fields:
+    alternative: 03.0/05.5 Alu-1N:S Ta
+    categorie: null
+    code: OENOEN
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: OENOEN_
+    id_taxon: '15078'
+    nom_scientifique: Oenanthe oenanthe
+    nom_vernaculaire: Traquet motteux
+    position: Ta
+    recommandation: 02.5/05.0 Alu-1N:V
+  model: banding.Species
+  pk: 15078
+- fields:
+    alternative: null
+    categorie: null
+    code: OENHIS
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: OENHIS_
+    id_taxon: '15087'
+    nom_scientifique: Oenanthe hispanica
+    nom_vernaculaire: Traquet oreillard
+    position: Ta
+    recommandation: 02.5/05.0 Alu-1N:V
+  model: banding.Species
+  pk: 15087
+- fields:
+    alternative: null
+    categorie: null
+    code: TROTRO
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: TROTRO_
+    id_taxon: '15414'
+    nom_scientifique: Troglodytes troglodytes
+    nom_vernaculaire: Troglodyte mignon
+    position: Ta
+    recommandation: 02.0/05.0 Alu-1N:R
+  model: banding.Species
+  pk: 15414
+- fields:
+    alternative: null
+    categorie: null
+    code: VANVAN
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: VANVAN_
+    id_taxon: '8615'
+    nom_scientifique: Vanellus vanellus
+    nom_vernaculaire: Vanneau huppé
+    position: Ti
+    recommandation: 05.0/07.0 Alu-1N:G
+  model: banding.Species
+  pk: 8615
+- fields:
+    alternative: null
+    categorie: null
+    code: GYPAFR
+    commentaire: A riveter
+    date_mise_a_jour: '2024-10-15'
+    id_ref: GYPAFR_
+    id_taxon: '7407'
+    nom_scientifique: Gyps africanus
+    nom_vernaculaire: Vautour africain
+    position: Ta
+    recommandation: 26.0/20.0 Aci-1N:T
+  model: banding.Species
+  pk: 7407
+- fields:
+    alternative: null
+    categorie: null
+    code: GYPRUE
+    commentaire: A riveter
+    date_mise_a_jour: '2024-10-15'
+    id_ref: GYPRUE_
+    id_taxon: '7410'
+    nom_scientifique: Gyps rueppellii
+    nom_vernaculaire: Vautour de Rüppell
+    position: Ta
+    recommandation: 26.0/20.0 Aci-1N:T
+  model: banding.Species
+  pk: 7410
+- fields:
+    alternative: null
+    categorie: null
+    code: GYPFUL
+    commentaire: A riveter
+    date_mise_a_jour: '2024-10-15'
+    id_ref: GYPFUL_
+    id_taxon: '7412'
+    nom_scientifique: Gyps fulvus
+    nom_vernaculaire: Vautour fauve
+    position: Ta
+    recommandation: 26.0/20.0 Aci-1N:T
+  model: banding.Species
+  pk: 7412
+- fields:
+    alternative: null
+    categorie: null
+    code: AEGMON
+    commentaire: A riveter
+    date_mise_a_jour: '2024-10-15'
+    id_ref: AEGMON_
+    id_taxon: '7415'
+    nom_scientifique: Aegypius monachus
+    nom_vernaculaire: Vautour moine
+    position: Ta
+    recommandation: 26.0/20.0 Aci-1N:T
+  model: banding.Species
+  pk: 7415
+- fields:
+    alternative: null
+    categorie: null
+    code: TORTRA
+    commentaire: A riveter
+    date_mise_a_jour: '2024-10-15'
+    id_ref: TORTRA_
+    id_taxon: '7417'
+    nom_scientifique: Torgos tracheliotus
+    nom_vernaculaire: Vautour oricou
+    position: Ta
+    recommandation: 26.0/20.0 Aci-1N:T
+  model: banding.Species
+  pk: 7417
+- fields:
+    alternative: null
+    categorie: null
+    code: NEOPER
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: NEOPER_
+    id_taxon: '7403'
+    nom_scientifique: Neophron percnopterus
+    nom_vernaculaire: Vautour percnoptère
+    position: Ta
+    recommandation: 16.0/12.0 Aci-1N:C
+  model: banding.Species
+  pk: 7403
+- fields:
+    alternative: null
+    categorie: null
+    code: SERCOR
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: SERCOR_
+    id_taxon: '17538'
+    nom_scientifique: Serinus corsicanus
+    nom_vernaculaire: Venturon corse
+    position: Ta
+    recommandation: 02.0/05.0 Alu-1N:R
+  model: banding.Species
+  pk: 17538
+- fields:
+    alternative: null
+    categorie: null
+    code: SERLLA
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: SERLLA_
+    id_taxon: '17537'
+    nom_scientifique: Serinus citrinella
+    nom_vernaculaire: Venturon montagnard
+    position: Ta
+    recommandation: 02.0/05.0 Alu-1N:R
+  model: banding.Species
+  pk: 17537
+- fields:
+    alternative: null
+    categorie: null
+    code: CARCHL
+    commentaire: null
+    date_mise_a_jour: '2024-10-15'
+    id_ref: CARCHL_
+    id_taxon: '17588'
+    nom_scientifique: Carduelis chloris
+    nom_vernaculaire: Verdier d'Europe
+    position: Ta
+    recommandation: 03.0/05.5 Alu-1N:S
+  model: banding.Species
+  pk: 17588
